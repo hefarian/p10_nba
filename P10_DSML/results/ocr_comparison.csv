@@ -1,0 +1,337 @@
+file,page,engine,status,nb_chars,nb_words,processing_time,note
+Reddit 4.pdf,0,pytesseract,ok,1334,227,0.976,
+Reddit 4.pdf,0,easyocr,unavailable,0,0,0.0,easyocr non installé
+Reddit 4.pdf,0,tika,ok,1363,227,0.922,
+Reddit 4.pdf,0,nanonets,ok,1480,246,13.678,
+Reddit 4.pdf,1,pytesseract,ok,2833,503,1.154,
+Reddit 4.pdf,1,easyocr,unavailable,0,0,0.0,easyocr non installé
+Reddit 4.pdf,1,tika,ok,2852,501,1.116,
+Reddit 4.pdf,1,nanonets,ok,2867,499,13.099,
+Reddit 4.pdf,2,pytesseract,ok,1855,339,0.946,
+Reddit 4.pdf,2,easyocr,unavailable,0,0,0.0,easyocr non installé
+Reddit 4.pdf,2,tika,ok,1881,339,0.856,
+Reddit 4.pdf,2,nanonets,ok,2169,360,11.515,
+Reddit 4.pdf,3,pytesseract,ok,1440,251,0.932,
+Reddit 4.pdf,3,easyocr,unavailable,0,0,0.0,easyocr non installé
+Reddit 4.pdf,3,tika,ok,1471,250,0.76,
+Reddit 4.pdf,3,nanonets,ok,1552,255,9.815,
+Reddit 4.pdf,4,pytesseract,ok,1830,339,0.923,
+Reddit 4.pdf,4,easyocr,unavailable,0,0,0.0,easyocr non installé
+Reddit 4.pdf,4,tika,ok,1870,337,0.883,
+Reddit 4.pdf,4,nanonets,ok,1930,350,8.536,
+Reddit 4.pdf,5,pytesseract,ok,1488,266,0.891,
+Reddit 4.pdf,5,easyocr,unavailable,0,0,0.0,easyocr non installé
+Reddit 4.pdf,5,tika,ok,1538,264,0.772,
+Reddit 4.pdf,5,nanonets,ok,1918,295,11.712,
+Reddit 4.pdf,6,pytesseract,ok,1321,226,0.797,
+Reddit 4.pdf,6,easyocr,unavailable,0,0,0.0,easyocr non installé
+Reddit 4.pdf,6,tika,ok,1354,227,0.687,
+Reddit 4.pdf,6,nanonets,ok,1668,252,10.989,
+Reddit 4.pdf,7,pytesseract,ok,1358,230,0.781,
+Reddit 4.pdf,7,easyocr,unavailable,0,0,0.0,easyocr non installé
+Reddit 4.pdf,7,tika,ok,1382,232,0.741,
+Reddit 4.pdf,7,nanonets,ok,1681,268,8.092,
+Reddit 4.pdf,8,pytesseract,ok,1168,209,0.739,
+Reddit 4.pdf,8,easyocr,unavailable,0,0,0.0,easyocr non installé
+Reddit 4.pdf,8,tika,ok,1158,194,0.649,
+Reddit 4.pdf,8,nanonets,ok,1228,220,9.59,
+Reddit 4.pdf,9,pytesseract,ok,499,67,0.439,
+Reddit 4.pdf,9,easyocr,unavailable,0,0,0.0,easyocr non installé
+Reddit 4.pdf,9,tika,ok,505,67,0.48,
+Reddit 4.pdf,9,nanonets,ok,860,103,6.425,
+Reddit 3.pdf,0,pytesseract,ok,729,110,0.464,
+Reddit 3.pdf,0,easyocr,unavailable,0,0,0.0,easyocr non installé
+Reddit 3.pdf,0,tika,ok,731,110,0.541,
+Reddit 3.pdf,0,nanonets,ok,778,114,4.411,
+Reddit 3.pdf,1,pytesseract,ok,1321,218,0.695,
+Reddit 3.pdf,1,easyocr,unavailable,0,0,0.0,easyocr non installé
+Reddit 3.pdf,1,tika,ok,1324,218,0.689,
+Reddit 3.pdf,1,nanonets,ok,2848,274,12.273,
+Reddit 3.pdf,2,pytesseract,ok,1594,261,0.941,
+Reddit 3.pdf,2,easyocr,unavailable,0,0,0.0,easyocr non installé
+Reddit 3.pdf,2,tika,ok,1619,261,0.795,
+Reddit 3.pdf,2,nanonets,ok,1903,272,5.84,
+Reddit 3.pdf,3,pytesseract,ok,2416,431,1.096,
+Reddit 3.pdf,3,easyocr,unavailable,0,0,0.0,easyocr non installé
+Reddit 3.pdf,3,tika,ok,2439,434,0.974,
+Reddit 3.pdf,3,nanonets,ok,2722,451,7.668,
+Reddit 3.pdf,4,pytesseract,ok,1660,283,0.963,
+Reddit 3.pdf,4,easyocr,unavailable,0,0,0.0,easyocr non installé
+Reddit 3.pdf,4,tika,ok,1701,283,0.832,
+Reddit 3.pdf,4,nanonets,ok,2003,306,5.5,
+Reddit 3.pdf,5,pytesseract,ok,2231,396,1.071,
+Reddit 3.pdf,5,easyocr,unavailable,0,0,0.0,easyocr non installé
+Reddit 3.pdf,5,tika,ok,2239,393,0.95,
+Reddit 3.pdf,5,nanonets,ok,2301,407,6.0,
+Reddit 3.pdf,6,pytesseract,ok,1261,240,0.897,
+Reddit 3.pdf,6,easyocr,unavailable,0,0,0.0,easyocr non installé
+Reddit 3.pdf,6,tika,ok,1286,238,0.683,
+Reddit 3.pdf,6,nanonets,ok,1297,234,5.574,
+Reddit 3.pdf,7,pytesseract,ok,859,135,0.564,
+Reddit 3.pdf,7,easyocr,unavailable,0,0,0.0,easyocr non installé
+Reddit 3.pdf,7,tika,ok,866,134,0.595,
+Reddit 3.pdf,7,nanonets,ok,2116,180,7.379,
+Reddit 3.pdf,8,pytesseract,ok,1312,230,0.803,
+Reddit 3.pdf,8,easyocr,unavailable,0,0,0.0,easyocr non installé
+Reddit 3.pdf,8,tika,ok,1332,225,0.711,
+Reddit 3.pdf,8,nanonets,ok,1357,235,4.868,
+Reddit 3.pdf,9,pytesseract,ok,1540,285,0.928,
+Reddit 3.pdf,9,easyocr,unavailable,0,0,0.0,easyocr non installé
+Reddit 3.pdf,9,tika,ok,1583,286,0.775,
+Reddit 3.pdf,9,nanonets,ok,1606,292,5.188,
+Reddit 3.pdf,10,pytesseract,ok,1773,320,0.945,
+Reddit 3.pdf,10,easyocr,unavailable,0,0,0.0,easyocr non installé
+Reddit 3.pdf,10,tika,ok,1793,318,0.832,
+Reddit 3.pdf,10,nanonets,ok,1763,306,6.04,
+Reddit 3.pdf,11,pytesseract,ok,1464,257,0.883,
+Reddit 3.pdf,11,easyocr,unavailable,0,0,0.0,easyocr non installé
+Reddit 3.pdf,11,tika,ok,1502,259,0.76,
+Reddit 3.pdf,11,nanonets,ok,2084,348,5.814,
+Reddit 3.pdf,12,pytesseract,ok,1578,280,0.923,
+Reddit 3.pdf,12,easyocr,unavailable,0,0,0.0,easyocr non installé
+Reddit 3.pdf,12,tika,ok,1610,281,0.768,
+Reddit 3.pdf,12,nanonets,ok,1651,289,4.82,
+Reddit 3.pdf,13,pytesseract,ok,2992,526,1.22,
+Reddit 3.pdf,13,easyocr,unavailable,0,0,0.0,easyocr non installé
+Reddit 3.pdf,13,tika,ok,2999,525,1.123,
+Reddit 3.pdf,13,nanonets,ok,3294,527,6.495,
+Reddit 3.pdf,14,pytesseract,ok,2648,477,1.199,
+Reddit 3.pdf,14,easyocr,unavailable,0,0,0.0,easyocr non installé
+Reddit 3.pdf,14,tika,ok,2673,478,1.084,
+Reddit 3.pdf,14,nanonets,ok,2870,496,6.552,
+Reddit 3.pdf,15,pytesseract,ok,1377,246,0.785,
+Reddit 3.pdf,15,easyocr,unavailable,0,0,0.0,easyocr non installé
+Reddit 3.pdf,15,tika,ok,1407,244,0.739,
+Reddit 3.pdf,15,nanonets,ok,1750,268,5.554,
+Reddit 3.pdf,16,pytesseract,ok,2113,359,1.094,
+Reddit 3.pdf,16,easyocr,unavailable,0,0,0.0,easyocr non installé
+Reddit 3.pdf,16,tika,ok,2166,362,0.939,
+Reddit 3.pdf,16,nanonets,ok,2409,382,5.936,
+Reddit 3.pdf,17,pytesseract,ok,2186,403,1.03,
+Reddit 3.pdf,17,easyocr,unavailable,0,0,0.0,easyocr non installé
+Reddit 3.pdf,17,tika,ok,2206,400,0.916,
+Reddit 3.pdf,17,nanonets,ok,2266,404,6.272,
+Reddit 3.pdf,18,pytesseract,ok,1363,224,0.803,
+Reddit 3.pdf,18,easyocr,unavailable,0,0,0.0,easyocr non installé
+Reddit 3.pdf,18,tika,ok,1403,221,0.742,
+Reddit 3.pdf,18,nanonets,ok,1721,248,5.018,
+Reddit 3.pdf,19,pytesseract,ok,936,146,0.603,
+Reddit 3.pdf,19,easyocr,unavailable,0,0,0.0,easyocr non installé
+Reddit 3.pdf,19,tika,ok,953,146,0.618,
+Reddit 3.pdf,19,nanonets,ok,2559,207,7.216,
+Reddit 3.pdf,20,pytesseract,ok,1482,258,0.98,
+Reddit 3.pdf,20,easyocr,unavailable,0,0,0.0,easyocr non installé
+Reddit 3.pdf,20,tika,ok,1532,263,0.746,
+Reddit 3.pdf,20,nanonets,ok,1569,278,5.465,
+Reddit 3.pdf,21,pytesseract,ok,1523,271,0.897,
+Reddit 3.pdf,21,easyocr,unavailable,0,0,0.0,easyocr non installé
+Reddit 3.pdf,21,tika,ok,1577,273,0.763,
+Reddit 3.pdf,21,nanonets,ok,1621,288,5.383,
+Reddit 3.pdf,22,pytesseract,ok,1387,245,0.819,
+Reddit 3.pdf,22,easyocr,unavailable,0,0,0.0,easyocr non installé
+Reddit 3.pdf,22,tika,ok,1420,246,0.727,
+Reddit 3.pdf,22,nanonets,ok,1454,256,4.803,
+Reddit 3.pdf,23,pytesseract,ok,1598,293,0.953,
+Reddit 3.pdf,23,easyocr,unavailable,0,0,0.0,easyocr non installé
+Reddit 3.pdf,23,tika,ok,1628,291,0.827,
+Reddit 3.pdf,23,nanonets,ok,1568,282,4.917,
+Reddit 3.pdf,24,pytesseract,ok,2483,446,1.204,
+Reddit 3.pdf,24,easyocr,unavailable,0,0,0.0,easyocr non installé
+Reddit 3.pdf,24,tika,ok,2508,446,1.014,
+Reddit 3.pdf,24,nanonets,ok,2502,435,5.885,
+Reddit 3.pdf,25,pytesseract,ok,989,182,0.755,
+Reddit 3.pdf,25,easyocr,unavailable,0,0,0.0,easyocr non installé
+Reddit 3.pdf,25,tika,ok,1047,181,0.627,
+Reddit 3.pdf,25,nanonets,ok,1385,204,4.619,
+Reddit 3.pdf,26,pytesseract,ok,1830,320,1.013,
+Reddit 3.pdf,26,easyocr,unavailable,0,0,0.0,easyocr non installé
+Reddit 3.pdf,26,tika,ok,1857,320,0.836,
+Reddit 3.pdf,26,nanonets,ok,2097,343,5.55,
+Reddit 3.pdf,27,pytesseract,ok,1806,321,0.962,
+Reddit 3.pdf,27,easyocr,unavailable,0,0,0.0,easyocr non installé
+Reddit 3.pdf,27,tika,ok,1855,321,0.914,
+Reddit 3.pdf,27,nanonets,ok,1906,336,5.567,
+Reddit 3.pdf,28,pytesseract,ok,2084,357,1.084,
+Reddit 3.pdf,28,easyocr,unavailable,0,0,0.0,easyocr non installé
+Reddit 3.pdf,28,tika,ok,2142,358,0.932,
+Reddit 3.pdf,28,nanonets,ok,2143,351,5.397,
+Reddit 3.pdf,29,pytesseract,ok,1270,230,0.757,
+Reddit 3.pdf,29,easyocr,unavailable,0,0,0.0,easyocr non installé
+Reddit 3.pdf,29,tika,ok,1298,230,0.689,
+Reddit 3.pdf,29,nanonets,ok,1386,248,5.204,
+Reddit 3.pdf,30,pytesseract,ok,2239,405,1.124,
+Reddit 3.pdf,30,easyocr,unavailable,0,0,0.0,easyocr non installé
+Reddit 3.pdf,30,tika,ok,2258,406,0.961,
+Reddit 3.pdf,30,nanonets,ok,2328,414,6.692,
+Reddit 3.pdf,31,pytesseract,ok,1994,322,1.044,
+Reddit 3.pdf,31,easyocr,unavailable,0,0,0.0,easyocr non installé
+Reddit 3.pdf,31,tika,ok,1998,318,0.869,
+Reddit 3.pdf,31,nanonets,ok,2211,336,19.583,
+Reddit 3.pdf,32,pytesseract,ok,1416,247,0.788,
+Reddit 3.pdf,32,easyocr,unavailable,0,0,0.0,easyocr non installé
+Reddit 3.pdf,32,tika,ok,1433,245,0.73,
+Reddit 3.pdf,32,nanonets,ok,1485,263,6.071,
+Reddit 3.pdf,33,pytesseract,ok,1362,218,0.782,
+Reddit 3.pdf,33,easyocr,unavailable,0,0,0.0,easyocr non installé
+Reddit 3.pdf,33,tika,ok,1372,215,0.762,
+Reddit 3.pdf,33,nanonets,ok,1474,248,6.033,
+Reddit 3.pdf,34,pytesseract,ok,1431,235,0.833,
+Reddit 3.pdf,34,easyocr,unavailable,0,0,0.0,easyocr non installé
+Reddit 3.pdf,34,tika,ok,1441,231,0.715,
+Reddit 3.pdf,34,nanonets,ok,1550,248,5.09,
+Reddit 3.pdf,35,pytesseract,ok,385,49,0.365,
+Reddit 3.pdf,35,easyocr,unavailable,0,0,0.0,easyocr non installé
+Reddit 3.pdf,35,tika,ok,391,49,0.406,
+Reddit 3.pdf,35,nanonets,ok,468,46,2.9,
+Reddit 2.pdf,0,pytesseract,ok,1763,297,0.893,
+Reddit 2.pdf,0,easyocr,unavailable,0,0,0.0,easyocr non installé
+Reddit 2.pdf,0,tika,ok,1786,297,0.834,
+Reddit 2.pdf,0,nanonets,ok,1904,316,5.32,
+Reddit 2.pdf,1,pytesseract,ok,1248,214,0.76,
+Reddit 2.pdf,1,easyocr,unavailable,0,0,0.0,easyocr non installé
+Reddit 2.pdf,1,tika,ok,1302,217,0.677,
+Reddit 2.pdf,1,nanonets,ok,1636,247,4.65,
+Reddit 2.pdf,2,pytesseract,ok,2649,464,1.236,
+Reddit 2.pdf,2,easyocr,unavailable,0,0,0.0,easyocr non installé
+Reddit 2.pdf,2,tika,ok,2679,465,1.065,
+Reddit 2.pdf,2,nanonets,ok,2932,489,6.105,
+Reddit 2.pdf,3,pytesseract,ok,1508,261,0.908,
+Reddit 2.pdf,3,easyocr,unavailable,0,0,0.0,easyocr non installé
+Reddit 2.pdf,3,tika,ok,1555,262,0.764,
+Reddit 2.pdf,3,nanonets,ok,1865,277,5.051,
+Reddit 2.pdf,4,pytesseract,ok,1912,335,1.0,
+Reddit 2.pdf,4,easyocr,unavailable,0,0,0.0,easyocr non installé
+Reddit 2.pdf,4,tika,ok,1939,335,0.857,
+Reddit 2.pdf,4,nanonets,ok,1965,341,5.065,
+Reddit 2.pdf,5,pytesseract,ok,1742,311,0.973,
+Reddit 2.pdf,5,easyocr,unavailable,0,0,0.0,easyocr non installé
+Reddit 2.pdf,5,tika,ok,1791,311,0.832,
+Reddit 2.pdf,5,nanonets,ok,1865,326,5.038,
+Reddit 2.pdf,6,pytesseract,ok,2376,425,1.16,
+Reddit 2.pdf,6,easyocr,unavailable,0,0,0.0,easyocr non installé
+Reddit 2.pdf,6,tika,ok,2408,423,0.973,
+Reddit 2.pdf,6,nanonets,ok,2380,406,5.457,
+Reddit 2.pdf,7,pytesseract,ok,1742,313,0.991,
+Reddit 2.pdf,7,easyocr,unavailable,0,0,0.0,easyocr non installé
+Reddit 2.pdf,7,tika,ok,1790,309,0.85,
+Reddit 2.pdf,7,nanonets,ok,2014,330,5.314,
+Reddit 2.pdf,8,pytesseract,ok,1944,352,1.075,
+Reddit 2.pdf,8,easyocr,unavailable,0,0,0.0,easyocr non installé
+Reddit 2.pdf,8,tika,ok,1983,351,0.883,
+Reddit 2.pdf,8,nanonets,ok,1991,352,5.347,
+Reddit 2.pdf,9,pytesseract,ok,1873,325,1.132,
+Reddit 2.pdf,9,easyocr,unavailable,0,0,0.0,easyocr non installé
+Reddit 2.pdf,9,tika,ok,1915,321,0.859,
+Reddit 2.pdf,9,nanonets,ok,1926,332,5.452,
+Reddit 2.pdf,10,pytesseract,ok,1589,273,0.954,
+Reddit 2.pdf,10,easyocr,unavailable,0,0,0.0,easyocr non installé
+Reddit 2.pdf,10,tika,ok,1619,273,0.783,
+Reddit 2.pdf,10,nanonets,ok,1701,283,5.146,
+Reddit 2.pdf,11,pytesseract,ok,2130,376,1.197,
+Reddit 2.pdf,11,easyocr,unavailable,0,0,0.0,easyocr non installé
+Reddit 2.pdf,11,tika,ok,2180,378,0.96,
+Reddit 2.pdf,11,nanonets,ok,2468,402,13.521,
+Reddit 2.pdf,12,pytesseract,ok,1179,211,0.747,
+Reddit 2.pdf,12,easyocr,unavailable,0,0,0.0,easyocr non installé
+Reddit 2.pdf,12,tika,ok,1188,204,0.679,
+Reddit 2.pdf,12,nanonets,ok,2146,254,10.151,
+Reddit 2.pdf,13,pytesseract,ok,1791,320,0.967,
+Reddit 2.pdf,13,easyocr,unavailable,0,0,0.0,easyocr non installé
+Reddit 2.pdf,13,tika,ok,1834,322,0.847,
+Reddit 2.pdf,13,nanonets,ok,1866,330,5.114,
+Reddit 2.pdf,14,pytesseract,ok,1750,315,0.957,
+Reddit 2.pdf,14,easyocr,unavailable,0,0,0.0,easyocr non installé
+Reddit 2.pdf,14,tika,ok,1792,314,0.832,
+Reddit 2.pdf,14,nanonets,ok,1839,323,4.969,
+Reddit 2.pdf,15,pytesseract,ok,1837,331,1.012,
+Reddit 2.pdf,15,easyocr,unavailable,0,0,0.0,easyocr non installé
+Reddit 2.pdf,15,tika,ok,1898,334,0.857,
+Reddit 2.pdf,15,nanonets,ok,1962,346,5.363,
+Reddit 2.pdf,16,pytesseract,ok,1426,256,0.852,
+Reddit 2.pdf,16,easyocr,unavailable,0,0,0.0,easyocr non installé
+Reddit 2.pdf,16,tika,ok,1457,259,0.73,
+Reddit 2.pdf,16,nanonets,ok,1332,239,4.551,
+Reddit 2.pdf,17,pytesseract,ok,2287,419,1.084,
+Reddit 2.pdf,17,easyocr,unavailable,0,0,0.0,easyocr non installé
+Reddit 2.pdf,17,tika,ok,2336,421,0.983,
+Reddit 2.pdf,17,nanonets,ok,2370,425,6.195,
+Reddit 2.pdf,18,pytesseract,ok,1371,243,0.833,
+Reddit 2.pdf,18,easyocr,unavailable,0,0,0.0,easyocr non installé
+Reddit 2.pdf,18,tika,ok,1400,243,0.707,
+Reddit 2.pdf,18,nanonets,ok,1388,236,5.137,
+Reddit 2.pdf,19,pytesseract,ok,1947,343,1.042,
+Reddit 2.pdf,19,easyocr,unavailable,0,0,0.0,easyocr non installé
+Reddit 2.pdf,19,tika,ok,1966,338,0.865,
+Reddit 2.pdf,19,nanonets,ok,2217,369,5.675,
+Reddit 2.pdf,20,pytesseract,ok,1528,263,0.836,
+Reddit 2.pdf,20,easyocr,unavailable,0,0,0.0,easyocr non installé
+Reddit 2.pdf,20,tika,ok,1544,261,0.74,
+Reddit 2.pdf,20,nanonets,ok,1588,281,5.51,
+Reddit 2.pdf,21,pytesseract,ok,1486,261,0.815,
+Reddit 2.pdf,21,easyocr,unavailable,0,0,0.0,easyocr non installé
+Reddit 2.pdf,21,tika,ok,1514,258,0.728,
+Reddit 2.pdf,21,nanonets,ok,1547,285,4.838,
+Reddit 2.pdf,22,pytesseract,ok,757,113,0.506,
+Reddit 2.pdf,22,easyocr,unavailable,0,0,0.0,easyocr non installé
+Reddit 2.pdf,22,tika,ok,777,115,0.556,
+Reddit 2.pdf,22,nanonets,ok,1006,132,3.585,
+Reddit 1.pdf,0,pytesseract,ok,2026,343,1.049,
+Reddit 1.pdf,0,easyocr,unavailable,0,0,0.0,easyocr non installé
+Reddit 1.pdf,0,tika,ok,2043,341,0.901,
+Reddit 1.pdf,0,nanonets,ok,2143,343,13.326,
+Reddit 1.pdf,1,pytesseract,ok,1701,302,0.955,
+Reddit 1.pdf,1,easyocr,unavailable,0,0,0.0,easyocr non installé
+Reddit 1.pdf,1,tika,ok,1741,301,0.864,
+Reddit 1.pdf,1,nanonets,ok,1810,321,12.459,
+Reddit 1.pdf,2,pytesseract,ok,1532,272,0.901,
+Reddit 1.pdf,2,easyocr,unavailable,0,0,0.0,easyocr non installé
+Reddit 1.pdf,2,tika,ok,1571,269,0.769,
+Reddit 1.pdf,2,nanonets,ok,1580,269,12.0,
+Reddit 1.pdf,3,pytesseract,ok,1873,342,0.941,
+Reddit 1.pdf,3,easyocr,unavailable,0,0,0.0,easyocr non installé
+Reddit 1.pdf,3,tika,ok,1902,340,0.939,
+Reddit 1.pdf,3,nanonets,ok,2183,353,9.193,
+Reddit 1.pdf,4,pytesseract,ok,2030,366,1.275,
+Reddit 1.pdf,4,easyocr,unavailable,0,0,0.0,easyocr non installé
+Reddit 1.pdf,4,tika,ok,2070,366,0.921,
+Reddit 1.pdf,4,nanonets,ok,2228,378,10.404,
+Reddit 1.pdf,5,pytesseract,ok,1608,293,0.959,
+Reddit 1.pdf,5,easyocr,unavailable,0,0,0.0,easyocr non installé
+Reddit 1.pdf,5,tika,ok,1638,292,0.847,
+Reddit 1.pdf,5,nanonets,ok,1957,303,15.114,
+Reddit 1.pdf,6,pytesseract,ok,2033,351,1.143,
+Reddit 1.pdf,6,easyocr,unavailable,0,0,0.0,easyocr non installé
+Reddit 1.pdf,6,tika,ok,2081,353,0.894,
+Reddit 1.pdf,6,nanonets,ok,2142,367,13.423,
+Reddit 1.pdf,7,pytesseract,ok,1873,315,1.0,
+Reddit 1.pdf,7,easyocr,unavailable,0,0,0.0,easyocr non installé
+Reddit 1.pdf,7,tika,ok,1930,313,0.865,
+Reddit 1.pdf,7,nanonets,ok,1923,309,9.377,
+Reddit 1.pdf,8,pytesseract,ok,1691,304,1.055,
+Reddit 1.pdf,8,easyocr,unavailable,0,0,0.0,easyocr non installé
+Reddit 1.pdf,8,tika,ok,1749,303,0.834,
+Reddit 1.pdf,8,nanonets,ok,2078,323,8.021,
+Reddit 1.pdf,9,pytesseract,ok,1824,321,1.14,
+Reddit 1.pdf,9,easyocr,unavailable,0,0,0.0,easyocr non installé
+Reddit 1.pdf,9,tika,ok,1865,323,0.878,
+Reddit 1.pdf,9,nanonets,ok,1880,319,8.121,
+Reddit 1.pdf,10,pytesseract,ok,1706,306,0.914,
+Reddit 1.pdf,10,easyocr,unavailable,0,0,0.0,easyocr non installé
+Reddit 1.pdf,10,tika,ok,1745,305,0.848,
+Reddit 1.pdf,10,nanonets,ok,1796,317,16.573,
+Reddit 1.pdf,11,pytesseract,ok,1858,319,0.986,
+Reddit 1.pdf,11,easyocr,unavailable,0,0,0.0,easyocr non installé
+Reddit 1.pdf,11,tika,ok,1879,318,0.855,
+Reddit 1.pdf,11,nanonets,ok,1897,319,7.29,
+Reddit 1.pdf,12,pytesseract,ok,1489,254,0.831,
+Reddit 1.pdf,12,easyocr,unavailable,0,0,0.0,easyocr non installé
+Reddit 1.pdf,12,tika,ok,1498,252,0.762,
+Reddit 1.pdf,12,nanonets,ok,1505,269,6.04,
+Reddit 1.pdf,13,pytesseract,ok,1280,209,0.798,
+Reddit 1.pdf,13,easyocr,unavailable,0,0,0.0,easyocr non installé
+Reddit 1.pdf,13,tika,ok,1296,209,0.729,
+Reddit 1.pdf,13,nanonets,ok,1324,224,7.009,
+Reddit 1.pdf,14,pytesseract,ok,653,98,0.541,
+Reddit 1.pdf,14,easyocr,unavailable,0,0,0.0,easyocr non installé
+Reddit 1.pdf,14,tika,ok,662,97,0.5,
+Reddit 1.pdf,14,nanonets,ok,854,106,6.464,

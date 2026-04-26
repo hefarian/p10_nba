@@ -1,0 +1,34 @@
+# Environnement Python
+**/__pycache__/
+**/*.pyc
+**/*.pyo
+**/*.pyd
+**/.Python
+**/venv/
+**/env/
+**/.venv/
+
+# Git
+**/.git/
+**/.gitignore
+
+# Fichiers générés (recréés au démarrage du conteneur)
+P10_DSML/vector_db/
+P10_DSML/database/
+P10_DSML/results/
+
+# Logs
+**/*.log
+
+# IDE
+**/.vscode/
+**/.idea/
+**/*.swp
+
+# OS
+**/.DS_Store
+**/Thumbs.db
+
+# Données sensibles — passées via env_file dans docker-compose.yml
+# (le .env de P10_DSML est monté via env_file, pas copié dans l'image)
+P10_DSML/.env

@@ -1,0 +1,13 @@
+﻿Catégorie,Question,Réponse (extrait),Nb contextes,Faithfulness,Answer Relevancy,Context Precision
+simple,Quel joueur a marqué le plus de points au total cette saison ?,Shai Gilgeous-Alexander.,5,0.0,,0.99999999995
+simple,Quel est le pourcentage moyen aux lancers francs des joueurs NBA cette saison ?,Le contexte fourni ne contient pas d'information sur le pourcentage moyen aux lancers francs des jou...,5,0.0,,0.0
+simple,Qui est le meilleur intercepteur (STL) de la saison régulière ?,"D'après le contexte fourni, **l'information sur le meilleur intercepteur (STL) de la saison régulièr...",5,0.8,,0.0
+complex,Quel joueur a le meilleur pourcentage à 3 points parmi ceux qui tirent au moins ...,Le contexte fourni ne contient pas d'informations sur les joueurs qui tirent au moins 3 fois par mat...,5,0.25,,0.9999999999
+complex,Compare les statistiques de rebonds (OREB et DREB) des joueurs de l'équipe OKC p...,Je ne peux pas comparer les statistiques de rebonds (OREB et DREB) des joueurs de l'équipe OKC par r...,5,1.0,,0.0
+complex,Quelle équipe a le meilleur ratio victoires/matchs joués parmi les équipes de co...,"D'après le contexte fourni, les équipes de la conférence Ouest mentionnées sont :
+- OKC (Oklahoma Ci...",5,1.0,,0.0
+noisy,shai gilgeous c'est qui exactement et c'est quoi ses stats???,"D'après le contexte fourni, voici les informations disponibles sur **Shai Gilgeous-Alexander** :
+
+##...",5,0.9259259259259259,,0.9999999999
+noisy,meilleur rebondeur genre top 3 joueurs ?? genre les pivots?,"D'après le contexte fourni, **Shai Gilgeous-Alexander** est le seul joueur mentionné avec des donnée...",5,1.0,,0.0
+noisy,ekip qui gagne le plus en 2024 2025 nba saison reguliere,Je ne peux pas répondre à cette question car le contexte fourni ne contient pas d'informations sur l...,5,0.0,,0.3333333333

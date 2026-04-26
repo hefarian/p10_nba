@@ -1,0 +1,26 @@
+﻿Catégorie,Source,Question,Réponse (extrait),Nb contextes,Faithfulness,Answer Relevancy,Context Precision
+simple,sql,Quel joueur a marqué le plus de points au total cette saison ?,"**Réponse :**
+
+Le joueur ayant marqué le plus de points cette saison NBA est **Shai Gilgeous-Alexand...",1,1.0,0.7981398618041105,0.9999999999
+simple,sql,Quel est le pourcentage moyen aux lancers francs des joueurs NBA cette sais...,"**Réponse :**
+
+Le pourcentage moyen aux lancers francs des joueurs NBA cette saison est de **72,02 %...",1,0.6666666666666666,0.8227433782965476,0.0
+simple,sql,Qui est le meilleur intercepteur (STL) de la saison régulière ?,"**Réponse :**
+
+Le meilleur intercepteur (STL) de la saison régulière NBA est **Dyson Daniels** (Atla...",1,0.8333333333333334,0.8612455197087845,0.0
+complex,sql,Quel joueur a le meilleur pourcentage à 3 points parmi ceux qui tirent au m...,"**Réponse :**
+
+Le joueur avec le meilleur pourcentage à 3 points (minimum 3 tentatives par match) es...",1,1.0,0.8315847900380109,0.0
+complex,sql,Compare les statistiques de rebonds (OREB et DREB) des joueurs de l'équipe ...,"**Comparaison des rebonds entre OKC et DEN cette saison :**
+
+- **OKC** : 48,83 rebonds offensifs (OR...",1,1.0,0.7944424183415922,0.0
+complex,sql,Quelle équipe a le meilleur ratio victoires/matchs joués parmi les équipes ...,"**Réponse :**
+
+L'équipe de la conférence Ouest avec le meilleur ratio victoires/matchs joués est **l...",1,1.0,0.8443700352786448,0.9999999999
+noisy,sql,shai gilgeous c'est qui exactement et c'est quoi ses stats???,**Shai Gilgeous-Alexander (SGA)** est un joueur de basket-ball évoluant aux **Oklahoma City Thunder ...,1,0.88,0.7925079090992421,0.9999999999
+noisy,sql,meilleur rebondeur genre top 3 joueurs ?? genre les pivots?,"Voici les **3 meilleurs rebondeurs** (pivots dominants) de la saison NBA selon les données :
+
+1. **D...",1,0.7777777777777778,0.7558990135093876,0.0
+noisy,sql,ekip qui gagne le plus en 2024 2025 nba saison reguliere,"**Réponse :**
+
+En 2024-2025, l'équipe qui a remporté le plus de matchs en saison régulière NBA est l...",1,0.75,0.7872998419422346,0.9999999999

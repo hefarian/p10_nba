@@ -1,0 +1,124 @@
+{
+  "meta": {
+    "version": "v2",
+    "mode": "sql",
+    "total_questions": 9,
+    "routing": {
+      "sql": 9,
+      "rag": 0
+    },
+    "categories": {
+      "simple": 3,
+      "complex": 3,
+      "noisy": 3
+    },
+    "ragas_available": true
+  },
+  "samples": [
+    {
+      "question": "Quel joueur a marqué le plus de points au total cette saison ?",
+      "answer": "**Réponse :**\n\nLe joueur ayant marqué le plus de points cette saison NBA est **Shai Gilgeous-Alexander** (OKC) avec **2 485 points**.\n\n*(Source : Données NBA extraites le [date si disponible])*.",
+      "source": "sql",
+      "contexts_count": 1,
+      "ground_truth": "Shai Gilgeous-Alexander est le meilleur marqueur de la saison régulière avec 2485 points.",
+      "category": "simple"
+    },
+    {
+      "question": "Quel est le pourcentage moyen aux lancers francs des joueurs NBA cette saison ?",
+      "answer": "**Réponse :**\n\nLe pourcentage moyen aux lancers francs des joueurs NBA cette saison est de **72,02 %**.\n\n*(Source : Données extraites de la base NBA, avec une moyenne calculée sur les joueurs ayant participé à au moins un match.)*",
+      "source": "sql",
+      "contexts_count": 1,
+      "ground_truth": "Le pourcentage moyen aux lancers francs des joueurs NBA est d'environ 80%.",
+      "category": "simple"
+    },
+    {
+      "question": "Qui est le meilleur intercepteur (STL) de la saison régulière ?",
+      "answer": "**Réponse :**\n\nLe meilleur intercepteur (STL) de la saison régulière NBA est **Dyson Daniels** (Atlanta Hawks) avec **228 interceptions** en **76 matchs**, soit une moyenne de **3,0 interceptions par match**.\n\n*(Source : données NBA extraites via SQL)*",
+      "source": "sql",
+      "contexts_count": 1,
+      "ground_truth": "Le joueur avec le plus d'interceptions est parmi les meneurs de jeu défensifs.",
+      "category": "simple"
+    },
+    {
+      "question": "Quel joueur a le meilleur pourcentage à 3 points parmi ceux qui tirent au moins 3 fois par match ?",
+      "answer": "**Réponse :**\n\nLe joueur avec le meilleur pourcentage à 3 points (minimum 3 tentatives par match) est **Larry Nance Jr.** (ATL) avec un taux de **44,7%** (77 tentatives sur 24 matchs, soit 3,21 tentatives par match).\n\nIl devance de justesse **Zach LaVine** (SAC, 44,6%) et **Dariq Whitehead** (BKN, 44,6%), tous deux à égalité statistique.",
+      "source": "sql",
+      "contexts_count": 1,
+      "ground_truth": "Parmi les joueurs tirant au moins 3 tentatives par match à 3 points, le meilleur pourcentage dépasse généralement 42%.",
+      "category": "complex"
+    },
+    {
+      "question": "Compare les statistiques de rebonds (OREB et DREB) des joueurs de l'équipe OKC par rapport à l'équipe DEN cette saison.",
+      "answer": "**Comparaison des rebonds entre OKC et DEN cette saison :**\n\n- **OKC** : 48,83 rebonds offensifs (OREB) en moyenne par match et 155,89 rebonds défensifs (DREB).\n- **DEN** : 54,88 rebonds offensifs (OREB) en moyenne par match et 166,18 rebonds défensifs (DREB).\n\n**Analyse :**\nL'équipe du **Denver Nuggets (DEN)** domine clairement OKC en rebonds, avec un avantage de **+6,05 rebonds offensifs** et **+10,29 rebonds défensifs** par match. DEN est donc plus dominant au rebond cette saison.",
+      "source": "sql",
+      "contexts_count": 1,
+      "ground_truth": "L'équipe DEN est dominée par Nikola Jokić qui cumule des statistiques de rebonds exceptionnelles (889 rebonds totaux).",
+      "category": "complex"
+    },
+    {
+      "question": "Quelle équipe a le meilleur ratio victoires/matchs joués parmi les équipes de conférence Ouest ?",
+      "answer": "**Réponse :**\n\nL'équipe de la conférence Ouest avec le meilleur ratio victoires/matchs joués est **les Oklahoma City Thunder** avec un taux de victoires de **82,9%** (63 victoires en 76 matchs joués).\n\nVoici le top 3 des équipes de l'Ouest par ratio victoires/matchs :\n1. **Oklahoma City Thunder** : 82,9% (63-14)\n2. **Houston Rockets** : 63,4% (52-30)\n3. **Los Angeles Clippers** : 62,5% (50-36)",
+      "source": "sql",
+      "contexts_count": 1,
+      "ground_truth": "L'équipe OKC présente un excellent bilan avec 63 victoires sur 76 matchs.",
+      "category": "complex"
+    },
+    {
+      "question": "shai gilgeous c'est qui exactement et c'est quoi ses stats???",
+      "answer": "**Shai Gilgeous-Alexander (SGA)** est un joueur de basket-ball évoluant aux **Oklahoma City Thunder (OKC)** en NBA. Voici ses statistiques clés pour la saison 2023-2024 (76 matchs joués) :\n\n- **Âge** : 26 ans\n- **Points par match** : **32,7 pts** (2485 pts en 76 matchs)\n- **Tirs réussis** : 51,9% de réussite aux tirs (859/1657)\n- **Tirs à 3 points** : 37,5% (160/433)\n- **Lancer-francs** : 89,8% (600/669)\n- **Rebonds** : 5,0 par match (380 rebonds)\n- **Passes décisives** : 6,4 par match (486 passes)\n- **Interceptions** : 2,4 par match (182)\n- **Contres** : 1,7 par match (129)\n- **Évaluation** : **19,9** (PIE)\n\n**Points forts** : C'est l'un des meilleurs scoreurs de la ligue, avec une efficacité remarquable (56,9% eFG, 63,7% TS). Il est aussi un excellent passeur et défenseur polyvalent.\n\n*Source : Données NBA 2023-2024.*",
+      "source": "sql",
+      "contexts_count": 1,
+      "ground_truth": "Shai Gilgeous-Alexander est le meneur de l'OKC Thunder, meilleur marqueur de la saison avec 2485 points, 51.9% au tir.",
+      "category": "noisy"
+    },
+    {
+      "question": "meilleur rebondeur genre top 3 joueurs ?? genre les pivots?",
+      "answer": "Voici les **3 meilleurs rebondeurs** (pivots dominants) de la saison NBA selon les données :\n\n1. **Domantas Sabonis** (SAC) – **13,9 rebonds/match** (973 rebonds en 70 matchs)\n2. **Karl-Anthony Towns** (NYK) – **12,81 rebonds/match** (922 rebonds en 72 matchs)\n3. **Ivica Zubac** (LAC) – **12,6 rebonds/match** (1008 rebonds en 80 matchs)\n\n*Remarque : Les données couvrent les joueurs avec au moins 1 match joué (gp > 0).*",
+      "source": "sql",
+      "contexts_count": 1,
+      "ground_truth": "Les meilleurs rebondeurs sont généralement les pivots. Nikola Jokić de Denver domine avec 889 rebonds.",
+      "category": "noisy"
+    },
+    {
+      "question": "ekip qui gagne le plus en 2024 2025 nba saison reguliere",
+      "answer": "**Réponse :**\n\nEn 2024-2025, l'équipe qui a remporté le plus de matchs en saison régulière NBA est les **Oklahoma City Thunder** avec **63 victoires** en **76 matchs joués**, soit un pourcentage de victoires de **82,9%**.\n\n*(Source : Données SQL extraites de la base NBA, requête classée par pourcentage de victoires.)*",
+      "source": "sql",
+      "contexts_count": 1,
+      "ground_truth": "OKC Thunder est l'une des meilleures équipes de la saison régulière 2024-2025.",
+      "category": "noisy"
+    }
+  ],
+  "ragas_scores": {
+    "faithfulness": {
+      "mean": 0.878641975308642,
+      "min": 0.6666666666666666,
+      "max": 1.0
+    },
+    "answer_relevancy": {
+      "mean": 0.8098036408909505,
+      "min": 0.7558990135093876,
+      "max": 0.8612455197087845
+    },
+    "context_precision": {
+      "mean": 0.44444444439999997,
+      "min": 0.0,
+      "max": 0.9999999999
+    }
+  },
+  "ragas_scores_by_source": {
+    "sql": {
+      "faithfulness": {
+        "mean": 0.878641975308642,
+        "count": 9
+      },
+      "answer_relevancy": {
+        "mean": 0.8098036408909505,
+        "count": 9
+      },
+      "context_precision": {
+        "mean": 0.44444444439999997,
+        "count": 9
+      }
+    }
+  }
+}

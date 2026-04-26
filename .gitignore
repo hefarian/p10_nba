@@ -1,0 +1,43 @@
+# Dossiers exclus du dépôt
+DOC/
+P10_DSML_original/
+
+# Archives
+*.zip
+*.tar.gz
+*.rar
+*.7z
+
+# Environnement virtuel
+venv/
+env/
+ENV/
+.venv/
+
+# Fichiers sensibles
+.env
+*.key
+
+# Fichiers générés Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+*.egg-info/
+dist/
+build/
+
+# Logs
+*.log
+logs/
+
+# Fichiers temporaires
+.DS_Store
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+
+# Jupyter
+.ipynb_checkpoints/

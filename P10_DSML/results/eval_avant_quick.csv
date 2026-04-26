@@ -1,0 +1,10 @@
+﻿Catégorie,Question,Réponse (extrait),Nb contextes
+simple,Quel joueur a marqué le plus de points au total cette saison ?,"D'après la feuille **""Analyse""** du fichier *regular NBA.xlsx*, le joueur ayant marqué le plus de po...",5
+simple,Quel est le pourcentage moyen aux lancers francs des joueurs NBA cette saison ?,Le contexte fourni ne contient pas d'information sur le pourcentage moyen aux lancers francs des jou...,5
+simple,Qui est le meilleur intercepteur (STL) de la saison régulière ?,"D'après le contexte fourni, je ne peux pas déterminer qui est le meilleur intercepteur (STL) de la s...",5
+complex,Quel joueur a le meilleur pourcentage à 3 points parmi ceux qui tirent au moins ...,Le contexte fourni ne contient pas d'informations sur les joueurs qui tirent au moins 3 fois par mat...,5
+complex,Compare les statistiques de rebonds (OREB et DREB) des joueurs de l'équipe OKC p...,"D'après le contexte fourni, je ne peux pas comparer les statistiques de rebonds (OREB et DREB) des j...",5
+complex,Quelle équipe a le meilleur ratio victoires/matchs joués parmi les équipes de co...,"Pour répondre à cette question, il faut calculer le ratio victoires/défaites pour chaque équipe de l...",5
+noisy,shai gilgeous c'est qui exactement et c'est quoi ses stats???,**Shai Gilgeous-Alexander (SGA)** est un joueur de basket NBA évoluant au poste de meneur (PG) pour ...,5
+noisy,meilleur rebondeur genre top 3 joueurs ?? genre les pivots?,"D'après le contexte fourni, **aucune donnée sur les rebonds (totaux, offensifs ou défensifs) n'est d...",5
+noisy,ekip qui gagne le plus en 2024 2025 nba saison reguliere,Je ne peux pas répondre à cette question car le contexte fourni ne contient pas les données de class...,5

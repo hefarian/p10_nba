@@ -1,0 +1,50 @@
+services:
+  tika:
+    image: apache/tika:latest-full
+    container_name: tika
+    ports:
+      - "9998:9998"
+    restart: unless-stopped
+    healthcheck:
+      test: ["CMD-SHELL", "wget -qO- http://localhost:9998/tika || exit 1"]
+      interval: 15s
+      timeout: 10s
+      retries: 5
+      start_period: 60s
+
+  sportsee-rag:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    container_name: sportsee-rag
+    ports:
+      - "8508:8508"
+    env_file:
+      - P10_DSML/.env          # MISTRAL_API_KEY + LOGFIRE_TOKEN (optionnel)
+    environment:
+      - NBA_DB_PATH=/app/P10_DSML/database/nba.db
+      - TIKA_URL=http://tika:9998
+    depends_on:
+      tika:
+        condition: service_healthy
+    volumes:
+      # Persistance de la base SQLite entre les redémarrages
+      - nba_db:/app/P10_DSML/database
+      # Persistance de l'index FAISS (évite de re-indexer à chaque démarrage)
+      - faiss_index:/app/P10_DSML/vector_db
+      # Cache des modèles EasyOCR (évite le re-téléchargement)
+      - easyocr_models:/root/.EasyOCR
+      # Persistance des résultats OCR (ocr_comparison.json/csv) sur l'hôte
+      - ./P10_DSML/results:/app/P10_DSML/results
+    restart: unless-stopped
+    healthcheck:
+      test: ["CMD", "curl", "-f", "http://localhost:8508/_stcore/health"]
+      interval: 30s
+      timeout: 10s
+      retries: 3
+      start_period: 120s      # Laisse le temps à l'indexation initiale
+
+volumes:
+  nba_db:
+  faiss_index:
+  easyocr_models:

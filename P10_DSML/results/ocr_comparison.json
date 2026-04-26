@@ -1,0 +1,3362 @@
+[
+  {
+    "file":"Reddit 4.pdf",
+    "page":0,
+    "engine":"pytesseract",
+    "status":"ok",
+    "nb_chars":1334,
+    "nb_words":227,
+    "processing_time":0.976,
+    "note":null
+  },
+  {
+    "file":"Reddit 4.pdf",
+    "page":0,
+    "engine":"easyocr",
+    "status":"unavailable",
+    "nb_chars":0,
+    "nb_words":0,
+    "processing_time":0.0,
+    "note":"easyocr non installé"
+  },
+  {
+    "file":"Reddit 4.pdf",
+    "page":0,
+    "engine":"tika",
+    "status":"ok",
+    "nb_chars":1363,
+    "nb_words":227,
+    "processing_time":0.922,
+    "note":null
+  },
+  {
+    "file":"Reddit 4.pdf",
+    "page":0,
+    "engine":"nanonets",
+    "status":"ok",
+    "nb_chars":1480,
+    "nb_words":246,
+    "processing_time":13.678,
+    "note":null
+  },
+  {
+    "file":"Reddit 4.pdf",
+    "page":1,
+    "engine":"pytesseract",
+    "status":"ok",
+    "nb_chars":2833,
+    "nb_words":503,
+    "processing_time":1.154,
+    "note":null
+  },
+  {
+    "file":"Reddit 4.pdf",
+    "page":1,
+    "engine":"easyocr",
+    "status":"unavailable",
+    "nb_chars":0,
+    "nb_words":0,
+    "processing_time":0.0,
+    "note":"easyocr non installé"
+  },
+  {
+    "file":"Reddit 4.pdf",
+    "page":1,
+    "engine":"tika",
+    "status":"ok",
+    "nb_chars":2852,
+    "nb_words":501,
+    "processing_time":1.116,
+    "note":null
+  },
+  {
+    "file":"Reddit 4.pdf",
+    "page":1,
+    "engine":"nanonets",
+    "status":"ok",
+    "nb_chars":2867,
+    "nb_words":499,
+    "processing_time":13.099,
+    "note":null
+  },
+  {
+    "file":"Reddit 4.pdf",
+    "page":2,
+    "engine":"pytesseract",
+    "status":"ok",
+    "nb_chars":1855,
+    "nb_words":339,
+    "processing_time":0.946,
+    "note":null
+  },
+  {
+    "file":"Reddit 4.pdf",
+    "page":2,
+    "engine":"easyocr",
+    "status":"unavailable",
+    "nb_chars":0,
+    "nb_words":0,
+    "processing_time":0.0,
+    "note":"easyocr non installé"
+  },
+  {
+    "file":"Reddit 4.pdf",
+    "page":2,
+    "engine":"tika",
+    "status":"ok",
+    "nb_chars":1881,
+    "nb_words":339,
+    "processing_time":0.856,
+    "note":null
+  },
+  {
+    "file":"Reddit 4.pdf",
+    "page":2,
+    "engine":"nanonets",
+    "status":"ok",
+    "nb_chars":2169,
+    "nb_words":360,
+    "processing_time":11.515,
+    "note":null
+  },
+  {
+    "file":"Reddit 4.pdf",
+    "page":3,
+    "engine":"pytesseract",
+    "status":"ok",
+    "nb_chars":1440,
+    "nb_words":251,
+    "processing_time":0.932,
+    "note":null
+  },
+  {
+    "file":"Reddit 4.pdf",
+    "page":3,
+    "engine":"easyocr",
+    "status":"unavailable",
+    "nb_chars":0,
+    "nb_words":0,
+    "processing_time":0.0,
+    "note":"easyocr non installé"
+  },
+  {
+    "file":"Reddit 4.pdf",
+    "page":3,
+    "engine":"tika",
+    "status":"ok",
+    "nb_chars":1471,
+    "nb_words":250,
+    "processing_time":0.76,
+    "note":null
+  },
+  {
+    "file":"Reddit 4.pdf",
+    "page":3,
+    "engine":"nanonets",
+    "status":"ok",
+    "nb_chars":1552,
+    "nb_words":255,
+    "processing_time":9.815,
+    "note":null
+  },
+  {
+    "file":"Reddit 4.pdf",
+    "page":4,
+    "engine":"pytesseract",
+    "status":"ok",
+    "nb_chars":1830,
+    "nb_words":339,
+    "processing_time":0.923,
+    "note":null
+  },
+  {
+    "file":"Reddit 4.pdf",
+    "page":4,
+    "engine":"easyocr",
+    "status":"unavailable",
+    "nb_chars":0,
+    "nb_words":0,
+    "processing_time":0.0,
+    "note":"easyocr non installé"
+  },
+  {
+    "file":"Reddit 4.pdf",
+    "page":4,
+    "engine":"tika",
+    "status":"ok",
+    "nb_chars":1870,
+    "nb_words":337,
+    "processing_time":0.883,
+    "note":null
+  },
+  {
+    "file":"Reddit 4.pdf",
+    "page":4,
+    "engine":"nanonets",
+    "status":"ok",
+    "nb_chars":1930,
+    "nb_words":350,
+    "processing_time":8.536,
+    "note":null
+  },
+  {
+    "file":"Reddit 4.pdf",
+    "page":5,
+    "engine":"pytesseract",
+    "status":"ok",
+    "nb_chars":1488,
+    "nb_words":266,
+    "processing_time":0.891,
+    "note":null
+  },
+  {
+    "file":"Reddit 4.pdf",
+    "page":5,
+    "engine":"easyocr",
+    "status":"unavailable",
+    "nb_chars":0,
+    "nb_words":0,
+    "processing_time":0.0,
+    "note":"easyocr non installé"
+  },
+  {
+    "file":"Reddit 4.pdf",
+    "page":5,
+    "engine":"tika",
+    "status":"ok",
+    "nb_chars":1538,
+    "nb_words":264,
+    "processing_time":0.772,
+    "note":null
+  },
+  {
+    "file":"Reddit 4.pdf",
+    "page":5,
+    "engine":"nanonets",
+    "status":"ok",
+    "nb_chars":1918,
+    "nb_words":295,
+    "processing_time":11.712,
+    "note":null
+  },
+  {
+    "file":"Reddit 4.pdf",
+    "page":6,
+    "engine":"pytesseract",
+    "status":"ok",
+    "nb_chars":1321,
+    "nb_words":226,
+    "processing_time":0.797,
+    "note":null
+  },
+  {
+    "file":"Reddit 4.pdf",
+    "page":6,
+    "engine":"easyocr",
+    "status":"unavailable",
+    "nb_chars":0,
+    "nb_words":0,
+    "processing_time":0.0,
+    "note":"easyocr non installé"
+  },
+  {
+    "file":"Reddit 4.pdf",
+    "page":6,
+    "engine":"tika",
+    "status":"ok",
+    "nb_chars":1354,
+    "nb_words":227,
+    "processing_time":0.687,
+    "note":null
+  },
+  {
+    "file":"Reddit 4.pdf",
+    "page":6,
+    "engine":"nanonets",
+    "status":"ok",
+    "nb_chars":1668,
+    "nb_words":252,
+    "processing_time":10.989,
+    "note":null
+  },
+  {
+    "file":"Reddit 4.pdf",
+    "page":7,
+    "engine":"pytesseract",
+    "status":"ok",
+    "nb_chars":1358,
+    "nb_words":230,
+    "processing_time":0.781,
+    "note":null
+  },
+  {
+    "file":"Reddit 4.pdf",
+    "page":7,
+    "engine":"easyocr",
+    "status":"unavailable",
+    "nb_chars":0,
+    "nb_words":0,
+    "processing_time":0.0,
+    "note":"easyocr non installé"
+  },
+  {
+    "file":"Reddit 4.pdf",
+    "page":7,
+    "engine":"tika",
+    "status":"ok",
+    "nb_chars":1382,
+    "nb_words":232,
+    "processing_time":0.741,
+    "note":null
+  },
+  {
+    "file":"Reddit 4.pdf",
+    "page":7,
+    "engine":"nanonets",
+    "status":"ok",
+    "nb_chars":1681,
+    "nb_words":268,
+    "processing_time":8.092,
+    "note":null
+  },
+  {
+    "file":"Reddit 4.pdf",
+    "page":8,
+    "engine":"pytesseract",
+    "status":"ok",
+    "nb_chars":1168,
+    "nb_words":209,
+    "processing_time":0.739,
+    "note":null
+  },
+  {
+    "file":"Reddit 4.pdf",
+    "page":8,
+    "engine":"easyocr",
+    "status":"unavailable",
+    "nb_chars":0,
+    "nb_words":0,
+    "processing_time":0.0,
+    "note":"easyocr non installé"
+  },
+  {
+    "file":"Reddit 4.pdf",
+    "page":8,
+    "engine":"tika",
+    "status":"ok",
+    "nb_chars":1158,
+    "nb_words":194,
+    "processing_time":0.649,
+    "note":null
+  },
+  {
+    "file":"Reddit 4.pdf",
+    "page":8,
+    "engine":"nanonets",
+    "status":"ok",
+    "nb_chars":1228,
+    "nb_words":220,
+    "processing_time":9.59,
+    "note":null
+  },
+  {
+    "file":"Reddit 4.pdf",
+    "page":9,
+    "engine":"pytesseract",
+    "status":"ok",
+    "nb_chars":499,
+    "nb_words":67,
+    "processing_time":0.439,
+    "note":null
+  },
+  {
+    "file":"Reddit 4.pdf",
+    "page":9,
+    "engine":"easyocr",
+    "status":"unavailable",
+    "nb_chars":0,
+    "nb_words":0,
+    "processing_time":0.0,
+    "note":"easyocr non installé"
+  },
+  {
+    "file":"Reddit 4.pdf",
+    "page":9,
+    "engine":"tika",
+    "status":"ok",
+    "nb_chars":505,
+    "nb_words":67,
+    "processing_time":0.48,
+    "note":null
+  },
+  {
+    "file":"Reddit 4.pdf",
+    "page":9,
+    "engine":"nanonets",
+    "status":"ok",
+    "nb_chars":860,
+    "nb_words":103,
+    "processing_time":6.425,
+    "note":null
+  },
+  {
+    "file":"Reddit 3.pdf",
+    "page":0,
+    "engine":"pytesseract",
+    "status":"ok",
+    "nb_chars":729,
+    "nb_words":110,
+    "processing_time":0.464,
+    "note":null
+  },
+  {
+    "file":"Reddit 3.pdf",
+    "page":0,
+    "engine":"easyocr",
+    "status":"unavailable",
+    "nb_chars":0,
+    "nb_words":0,
+    "processing_time":0.0,
+    "note":"easyocr non installé"
+  },
+  {
+    "file":"Reddit 3.pdf",
+    "page":0,
+    "engine":"tika",
+    "status":"ok",
+    "nb_chars":731,
+    "nb_words":110,
+    "processing_time":0.541,
+    "note":null
+  },
+  {
+    "file":"Reddit 3.pdf",
+    "page":0,
+    "engine":"nanonets",
+    "status":"ok",
+    "nb_chars":778,
+    "nb_words":114,
+    "processing_time":4.411,
+    "note":null
+  },
+  {
+    "file":"Reddit 3.pdf",
+    "page":1,
+    "engine":"pytesseract",
+    "status":"ok",
+    "nb_chars":1321,
+    "nb_words":218,
+    "processing_time":0.695,
+    "note":null
+  },
+  {
+    "file":"Reddit 3.pdf",
+    "page":1,
+    "engine":"easyocr",
+    "status":"unavailable",
+    "nb_chars":0,
+    "nb_words":0,
+    "processing_time":0.0,
+    "note":"easyocr non installé"
+  },
+  {
+    "file":"Reddit 3.pdf",
+    "page":1,
+    "engine":"tika",
+    "status":"ok",
+    "nb_chars":1324,
+    "nb_words":218,
+    "processing_time":0.689,
+    "note":null
+  },
+  {
+    "file":"Reddit 3.pdf",
+    "page":1,
+    "engine":"nanonets",
+    "status":"ok",
+    "nb_chars":2848,
+    "nb_words":274,
+    "processing_time":12.273,
+    "note":null
+  },
+  {
+    "file":"Reddit 3.pdf",
+    "page":2,
+    "engine":"pytesseract",
+    "status":"ok",
+    "nb_chars":1594,
+    "nb_words":261,
+    "processing_time":0.941,
+    "note":null
+  },
+  {
+    "file":"Reddit 3.pdf",
+    "page":2,
+    "engine":"easyocr",
+    "status":"unavailable",
+    "nb_chars":0,
+    "nb_words":0,
+    "processing_time":0.0,
+    "note":"easyocr non installé"
+  },
+  {
+    "file":"Reddit 3.pdf",
+    "page":2,
+    "engine":"tika",
+    "status":"ok",
+    "nb_chars":1619,
+    "nb_words":261,
+    "processing_time":0.795,
+    "note":null
+  },
+  {
+    "file":"Reddit 3.pdf",
+    "page":2,
+    "engine":"nanonets",
+    "status":"ok",
+    "nb_chars":1903,
+    "nb_words":272,
+    "processing_time":5.84,
+    "note":null
+  },
+  {
+    "file":"Reddit 3.pdf",
+    "page":3,
+    "engine":"pytesseract",
+    "status":"ok",
+    "nb_chars":2416,
+    "nb_words":431,
+    "processing_time":1.096,
+    "note":null
+  },
+  {
+    "file":"Reddit 3.pdf",
+    "page":3,
+    "engine":"easyocr",
+    "status":"unavailable",
+    "nb_chars":0,
+    "nb_words":0,
+    "processing_time":0.0,
+    "note":"easyocr non installé"
+  },
+  {
+    "file":"Reddit 3.pdf",
+    "page":3,
+    "engine":"tika",
+    "status":"ok",
+    "nb_chars":2439,
+    "nb_words":434,
+    "processing_time":0.974,
+    "note":null
+  },
+  {
+    "file":"Reddit 3.pdf",
+    "page":3,
+    "engine":"nanonets",
+    "status":"ok",
+    "nb_chars":2722,
+    "nb_words":451,
+    "processing_time":7.668,
+    "note":null
+  },
+  {
+    "file":"Reddit 3.pdf",
+    "page":4,
+    "engine":"pytesseract",
+    "status":"ok",
+    "nb_chars":1660,
+    "nb_words":283,
+    "processing_time":0.963,
+    "note":null
+  },
+  {
+    "file":"Reddit 3.pdf",
+    "page":4,
+    "engine":"easyocr",
+    "status":"unavailable",
+    "nb_chars":0,
+    "nb_words":0,
+    "processing_time":0.0,
+    "note":"easyocr non installé"
+  },
+  {
+    "file":"Reddit 3.pdf",
+    "page":4,
+    "engine":"tika",
+    "status":"ok",
+    "nb_chars":1701,
+    "nb_words":283,
+    "processing_time":0.832,
+    "note":null
+  },
+  {
+    "file":"Reddit 3.pdf",
+    "page":4,
+    "engine":"nanonets",
+    "status":"ok",
+    "nb_chars":2003,
+    "nb_words":306,
+    "processing_time":5.5,
+    "note":null
+  },
+  {
+    "file":"Reddit 3.pdf",
+    "page":5,
+    "engine":"pytesseract",
+    "status":"ok",
+    "nb_chars":2231,
+    "nb_words":396,
+    "processing_time":1.071,
+    "note":null
+  },
+  {
+    "file":"Reddit 3.pdf",
+    "page":5,
+    "engine":"easyocr",
+    "status":"unavailable",
+    "nb_chars":0,
+    "nb_words":0,
+    "processing_time":0.0,
+    "note":"easyocr non installé"
+  },
+  {
+    "file":"Reddit 3.pdf",
+    "page":5,
+    "engine":"tika",
+    "status":"ok",
+    "nb_chars":2239,
+    "nb_words":393,
+    "processing_time":0.95,
+    "note":null
+  },
+  {
+    "file":"Reddit 3.pdf",
+    "page":5,
+    "engine":"nanonets",
+    "status":"ok",
+    "nb_chars":2301,
+    "nb_words":407,
+    "processing_time":6.0,
+    "note":null
+  },
+  {
+    "file":"Reddit 3.pdf",
+    "page":6,
+    "engine":"pytesseract",
+    "status":"ok",
+    "nb_chars":1261,
+    "nb_words":240,
+    "processing_time":0.897,
+    "note":null
+  },
+  {
+    "file":"Reddit 3.pdf",
+    "page":6,
+    "engine":"easyocr",
+    "status":"unavailable",
+    "nb_chars":0,
+    "nb_words":0,
+    "processing_time":0.0,
+    "note":"easyocr non installé"
+  },
+  {
+    "file":"Reddit 3.pdf",
+    "page":6,
+    "engine":"tika",
+    "status":"ok",
+    "nb_chars":1286,
+    "nb_words":238,
+    "processing_time":0.683,
+    "note":null
+  },
+  {
+    "file":"Reddit 3.pdf",
+    "page":6,
+    "engine":"nanonets",
+    "status":"ok",
+    "nb_chars":1297,
+    "nb_words":234,
+    "processing_time":5.574,
+    "note":null
+  },
+  {
+    "file":"Reddit 3.pdf",
+    "page":7,
+    "engine":"pytesseract",
+    "status":"ok",
+    "nb_chars":859,
+    "nb_words":135,
+    "processing_time":0.564,
+    "note":null
+  },
+  {
+    "file":"Reddit 3.pdf",
+    "page":7,
+    "engine":"easyocr",
+    "status":"unavailable",
+    "nb_chars":0,
+    "nb_words":0,
+    "processing_time":0.0,
+    "note":"easyocr non installé"
+  },
+  {
+    "file":"Reddit 3.pdf",
+    "page":7,
+    "engine":"tika",
+    "status":"ok",
+    "nb_chars":866,
+    "nb_words":134,
+    "processing_time":0.595,
+    "note":null
+  },
+  {
+    "file":"Reddit 3.pdf",
+    "page":7,
+    "engine":"nanonets",
+    "status":"ok",
+    "nb_chars":2116,
+    "nb_words":180,
+    "processing_time":7.379,
+    "note":null
+  },
+  {
+    "file":"Reddit 3.pdf",
+    "page":8,
+    "engine":"pytesseract",
+    "status":"ok",
+    "nb_chars":1312,
+    "nb_words":230,
+    "processing_time":0.803,
+    "note":null
+  },
+  {
+    "file":"Reddit 3.pdf",
+    "page":8,
+    "engine":"easyocr",
+    "status":"unavailable",
+    "nb_chars":0,
+    "nb_words":0,
+    "processing_time":0.0,
+    "note":"easyocr non installé"
+  },
+  {
+    "file":"Reddit 3.pdf",
+    "page":8,
+    "engine":"tika",
+    "status":"ok",
+    "nb_chars":1332,
+    "nb_words":225,
+    "processing_time":0.711,
+    "note":null
+  },
+  {
+    "file":"Reddit 3.pdf",
+    "page":8,
+    "engine":"nanonets",
+    "status":"ok",
+    "nb_chars":1357,
+    "nb_words":235,
+    "processing_time":4.868,
+    "note":null
+  },
+  {
+    "file":"Reddit 3.pdf",
+    "page":9,
+    "engine":"pytesseract",
+    "status":"ok",
+    "nb_chars":1540,
+    "nb_words":285,
+    "processing_time":0.928,
+    "note":null
+  },
+  {
+    "file":"Reddit 3.pdf",
+    "page":9,
+    "engine":"easyocr",
+    "status":"unavailable",
+    "nb_chars":0,
+    "nb_words":0,
+    "processing_time":0.0,
+    "note":"easyocr non installé"
+  },
+  {
+    "file":"Reddit 3.pdf",
+    "page":9,
+    "engine":"tika",
+    "status":"ok",
+    "nb_chars":1583,
+    "nb_words":286,
+    "processing_time":0.775,
+    "note":null
+  },
+  {
+    "file":"Reddit 3.pdf",
+    "page":9,
+    "engine":"nanonets",
+    "status":"ok",
+    "nb_chars":1606,
+    "nb_words":292,
+    "processing_time":5.188,
+    "note":null
+  },
+  {
+    "file":"Reddit 3.pdf",
+    "page":10,
+    "engine":"pytesseract",
+    "status":"ok",
+    "nb_chars":1773,
+    "nb_words":320,
+    "processing_time":0.945,
+    "note":null
+  },
+  {
+    "file":"Reddit 3.pdf",
+    "page":10,
+    "engine":"easyocr",
+    "status":"unavailable",
+    "nb_chars":0,
+    "nb_words":0,
+    "processing_time":0.0,
+    "note":"easyocr non installé"
+  },
+  {
+    "file":"Reddit 3.pdf",
+    "page":10,
+    "engine":"tika",
+    "status":"ok",
+    "nb_chars":1793,
+    "nb_words":318,
+    "processing_time":0.832,
+    "note":null
+  },
+  {
+    "file":"Reddit 3.pdf",
+    "page":10,
+    "engine":"nanonets",
+    "status":"ok",
+    "nb_chars":1763,
+    "nb_words":306,
+    "processing_time":6.04,
+    "note":null
+  },
+  {
+    "file":"Reddit 3.pdf",
+    "page":11,
+    "engine":"pytesseract",
+    "status":"ok",
+    "nb_chars":1464,
+    "nb_words":257,
+    "processing_time":0.883,
+    "note":null
+  },
+  {
+    "file":"Reddit 3.pdf",
+    "page":11,
+    "engine":"easyocr",
+    "status":"unavailable",
+    "nb_chars":0,
+    "nb_words":0,
+    "processing_time":0.0,
+    "note":"easyocr non installé"
+  },
+  {
+    "file":"Reddit 3.pdf",
+    "page":11,
+    "engine":"tika",
+    "status":"ok",
+    "nb_chars":1502,
+    "nb_words":259,
+    "processing_time":0.76,
+    "note":null
+  },
+  {
+    "file":"Reddit 3.pdf",
+    "page":11,
+    "engine":"nanonets",
+    "status":"ok",
+    "nb_chars":2084,
+    "nb_words":348,
+    "processing_time":5.814,
+    "note":null
+  },
+  {
+    "file":"Reddit 3.pdf",
+    "page":12,
+    "engine":"pytesseract",
+    "status":"ok",
+    "nb_chars":1578,
+    "nb_words":280,
+    "processing_time":0.923,
+    "note":null
+  },
+  {
+    "file":"Reddit 3.pdf",
+    "page":12,
+    "engine":"easyocr",
+    "status":"unavailable",
+    "nb_chars":0,
+    "nb_words":0,
+    "processing_time":0.0,
+    "note":"easyocr non installé"
+  },
+  {
+    "file":"Reddit 3.pdf",
+    "page":12,
+    "engine":"tika",
+    "status":"ok",
+    "nb_chars":1610,
+    "nb_words":281,
+    "processing_time":0.768,
+    "note":null
+  },
+  {
+    "file":"Reddit 3.pdf",
+    "page":12,
+    "engine":"nanonets",
+    "status":"ok",
+    "nb_chars":1651,
+    "nb_words":289,
+    "processing_time":4.82,
+    "note":null
+  },
+  {
+    "file":"Reddit 3.pdf",
+    "page":13,
+    "engine":"pytesseract",
+    "status":"ok",
+    "nb_chars":2992,
+    "nb_words":526,
+    "processing_time":1.22,
+    "note":null
+  },
+  {
+    "file":"Reddit 3.pdf",
+    "page":13,
+    "engine":"easyocr",
+    "status":"unavailable",
+    "nb_chars":0,
+    "nb_words":0,
+    "processing_time":0.0,
+    "note":"easyocr non installé"
+  },
+  {
+    "file":"Reddit 3.pdf",
+    "page":13,
+    "engine":"tika",
+    "status":"ok",
+    "nb_chars":2999,
+    "nb_words":525,
+    "processing_time":1.123,
+    "note":null
+  },
+  {
+    "file":"Reddit 3.pdf",
+    "page":13,
+    "engine":"nanonets",
+    "status":"ok",
+    "nb_chars":3294,
+    "nb_words":527,
+    "processing_time":6.495,
+    "note":null
+  },
+  {
+    "file":"Reddit 3.pdf",
+    "page":14,
+    "engine":"pytesseract",
+    "status":"ok",
+    "nb_chars":2648,
+    "nb_words":477,
+    "processing_time":1.199,
+    "note":null
+  },
+  {
+    "file":"Reddit 3.pdf",
+    "page":14,
+    "engine":"easyocr",
+    "status":"unavailable",
+    "nb_chars":0,
+    "nb_words":0,
+    "processing_time":0.0,
+    "note":"easyocr non installé"
+  },
+  {
+    "file":"Reddit 3.pdf",
+    "page":14,
+    "engine":"tika",
+    "status":"ok",
+    "nb_chars":2673,
+    "nb_words":478,
+    "processing_time":1.084,
+    "note":null
+  },
+  {
+    "file":"Reddit 3.pdf",
+    "page":14,
+    "engine":"nanonets",
+    "status":"ok",
+    "nb_chars":2870,
+    "nb_words":496,
+    "processing_time":6.552,
+    "note":null
+  },
+  {
+    "file":"Reddit 3.pdf",
+    "page":15,
+    "engine":"pytesseract",
+    "status":"ok",
+    "nb_chars":1377,
+    "nb_words":246,
+    "processing_time":0.785,
+    "note":null
+  },
+  {
+    "file":"Reddit 3.pdf",
+    "page":15,
+    "engine":"easyocr",
+    "status":"unavailable",
+    "nb_chars":0,
+    "nb_words":0,
+    "processing_time":0.0,
+    "note":"easyocr non installé"
+  },
+  {
+    "file":"Reddit 3.pdf",
+    "page":15,
+    "engine":"tika",
+    "status":"ok",
+    "nb_chars":1407,
+    "nb_words":244,
+    "processing_time":0.739,
+    "note":null
+  },
+  {
+    "file":"Reddit 3.pdf",
+    "page":15,
+    "engine":"nanonets",
+    "status":"ok",
+    "nb_chars":1750,
+    "nb_words":268,
+    "processing_time":5.554,
+    "note":null
+  },
+  {
+    "file":"Reddit 3.pdf",
+    "page":16,
+    "engine":"pytesseract",
+    "status":"ok",
+    "nb_chars":2113,
+    "nb_words":359,
+    "processing_time":1.094,
+    "note":null
+  },
+  {
+    "file":"Reddit 3.pdf",
+    "page":16,
+    "engine":"easyocr",
+    "status":"unavailable",
+    "nb_chars":0,
+    "nb_words":0,
+    "processing_time":0.0,
+    "note":"easyocr non installé"
+  },
+  {
+    "file":"Reddit 3.pdf",
+    "page":16,
+    "engine":"tika",
+    "status":"ok",
+    "nb_chars":2166,
+    "nb_words":362,
+    "processing_time":0.939,
+    "note":null
+  },
+  {
+    "file":"Reddit 3.pdf",
+    "page":16,
+    "engine":"nanonets",
+    "status":"ok",
+    "nb_chars":2409,
+    "nb_words":382,
+    "processing_time":5.936,
+    "note":null
+  },
+  {
+    "file":"Reddit 3.pdf",
+    "page":17,
+    "engine":"pytesseract",
+    "status":"ok",
+    "nb_chars":2186,
+    "nb_words":403,
+    "processing_time":1.03,
+    "note":null
+  },
+  {
+    "file":"Reddit 3.pdf",
+    "page":17,
+    "engine":"easyocr",
+    "status":"unavailable",
+    "nb_chars":0,
+    "nb_words":0,
+    "processing_time":0.0,
+    "note":"easyocr non installé"
+  },
+  {
+    "file":"Reddit 3.pdf",
+    "page":17,
+    "engine":"tika",
+    "status":"ok",
+    "nb_chars":2206,
+    "nb_words":400,
+    "processing_time":0.916,
+    "note":null
+  },
+  {
+    "file":"Reddit 3.pdf",
+    "page":17,
+    "engine":"nanonets",
+    "status":"ok",
+    "nb_chars":2266,
+    "nb_words":404,
+    "processing_time":6.272,
+    "note":null
+  },
+  {
+    "file":"Reddit 3.pdf",
+    "page":18,
+    "engine":"pytesseract",
+    "status":"ok",
+    "nb_chars":1363,
+    "nb_words":224,
+    "processing_time":0.803,
+    "note":null
+  },
+  {
+    "file":"Reddit 3.pdf",
+    "page":18,
+    "engine":"easyocr",
+    "status":"unavailable",
+    "nb_chars":0,
+    "nb_words":0,
+    "processing_time":0.0,
+    "note":"easyocr non installé"
+  },
+  {
+    "file":"Reddit 3.pdf",
+    "page":18,
+    "engine":"tika",
+    "status":"ok",
+    "nb_chars":1403,
+    "nb_words":221,
+    "processing_time":0.742,
+    "note":null
+  },
+  {
+    "file":"Reddit 3.pdf",
+    "page":18,
+    "engine":"nanonets",
+    "status":"ok",
+    "nb_chars":1721,
+    "nb_words":248,
+    "processing_time":5.018,
+    "note":null
+  },
+  {
+    "file":"Reddit 3.pdf",
+    "page":19,
+    "engine":"pytesseract",
+    "status":"ok",
+    "nb_chars":936,
+    "nb_words":146,
+    "processing_time":0.603,
+    "note":null
+  },
+  {
+    "file":"Reddit 3.pdf",
+    "page":19,
+    "engine":"easyocr",
+    "status":"unavailable",
+    "nb_chars":0,
+    "nb_words":0,
+    "processing_time":0.0,
+    "note":"easyocr non installé"
+  },
+  {
+    "file":"Reddit 3.pdf",
+    "page":19,
+    "engine":"tika",
+    "status":"ok",
+    "nb_chars":953,
+    "nb_words":146,
+    "processing_time":0.618,
+    "note":null
+  },
+  {
+    "file":"Reddit 3.pdf",
+    "page":19,
+    "engine":"nanonets",
+    "status":"ok",
+    "nb_chars":2559,
+    "nb_words":207,
+    "processing_time":7.216,
+    "note":null
+  },
+  {
+    "file":"Reddit 3.pdf",
+    "page":20,
+    "engine":"pytesseract",
+    "status":"ok",
+    "nb_chars":1482,
+    "nb_words":258,
+    "processing_time":0.98,
+    "note":null
+  },
+  {
+    "file":"Reddit 3.pdf",
+    "page":20,
+    "engine":"easyocr",
+    "status":"unavailable",
+    "nb_chars":0,
+    "nb_words":0,
+    "processing_time":0.0,
+    "note":"easyocr non installé"
+  },
+  {
+    "file":"Reddit 3.pdf",
+    "page":20,
+    "engine":"tika",
+    "status":"ok",
+    "nb_chars":1532,
+    "nb_words":263,
+    "processing_time":0.746,
+    "note":null
+  },
+  {
+    "file":"Reddit 3.pdf",
+    "page":20,
+    "engine":"nanonets",
+    "status":"ok",
+    "nb_chars":1569,
+    "nb_words":278,
+    "processing_time":5.465,
+    "note":null
+  },
+  {
+    "file":"Reddit 3.pdf",
+    "page":21,
+    "engine":"pytesseract",
+    "status":"ok",
+    "nb_chars":1523,
+    "nb_words":271,
+    "processing_time":0.897,
+    "note":null
+  },
+  {
+    "file":"Reddit 3.pdf",
+    "page":21,
+    "engine":"easyocr",
+    "status":"unavailable",
+    "nb_chars":0,
+    "nb_words":0,
+    "processing_time":0.0,
+    "note":"easyocr non installé"
+  },
+  {
+    "file":"Reddit 3.pdf",
+    "page":21,
+    "engine":"tika",
+    "status":"ok",
+    "nb_chars":1577,
+    "nb_words":273,
+    "processing_time":0.763,
+    "note":null
+  },
+  {
+    "file":"Reddit 3.pdf",
+    "page":21,
+    "engine":"nanonets",
+    "status":"ok",
+    "nb_chars":1621,
+    "nb_words":288,
+    "processing_time":5.383,
+    "note":null
+  },
+  {
+    "file":"Reddit 3.pdf",
+    "page":22,
+    "engine":"pytesseract",
+    "status":"ok",
+    "nb_chars":1387,
+    "nb_words":245,
+    "processing_time":0.819,
+    "note":null
+  },
+  {
+    "file":"Reddit 3.pdf",
+    "page":22,
+    "engine":"easyocr",
+    "status":"unavailable",
+    "nb_chars":0,
+    "nb_words":0,
+    "processing_time":0.0,
+    "note":"easyocr non installé"
+  },
+  {
+    "file":"Reddit 3.pdf",
+    "page":22,
+    "engine":"tika",
+    "status":"ok",
+    "nb_chars":1420,
+    "nb_words":246,
+    "processing_time":0.727,
+    "note":null
+  },
+  {
+    "file":"Reddit 3.pdf",
+    "page":22,
+    "engine":"nanonets",
+    "status":"ok",
+    "nb_chars":1454,
+    "nb_words":256,
+    "processing_time":4.803,
+    "note":null
+  },
+  {
+    "file":"Reddit 3.pdf",
+    "page":23,
+    "engine":"pytesseract",
+    "status":"ok",
+    "nb_chars":1598,
+    "nb_words":293,
+    "processing_time":0.953,
+    "note":null
+  },
+  {
+    "file":"Reddit 3.pdf",
+    "page":23,
+    "engine":"easyocr",
+    "status":"unavailable",
+    "nb_chars":0,
+    "nb_words":0,
+    "processing_time":0.0,
+    "note":"easyocr non installé"
+  },
+  {
+    "file":"Reddit 3.pdf",
+    "page":23,
+    "engine":"tika",
+    "status":"ok",
+    "nb_chars":1628,
+    "nb_words":291,
+    "processing_time":0.827,
+    "note":null
+  },
+  {
+    "file":"Reddit 3.pdf",
+    "page":23,
+    "engine":"nanonets",
+    "status":"ok",
+    "nb_chars":1568,
+    "nb_words":282,
+    "processing_time":4.917,
+    "note":null
+  },
+  {
+    "file":"Reddit 3.pdf",
+    "page":24,
+    "engine":"pytesseract",
+    "status":"ok",
+    "nb_chars":2483,
+    "nb_words":446,
+    "processing_time":1.204,
+    "note":null
+  },
+  {
+    "file":"Reddit 3.pdf",
+    "page":24,
+    "engine":"easyocr",
+    "status":"unavailable",
+    "nb_chars":0,
+    "nb_words":0,
+    "processing_time":0.0,
+    "note":"easyocr non installé"
+  },
+  {
+    "file":"Reddit 3.pdf",
+    "page":24,
+    "engine":"tika",
+    "status":"ok",
+    "nb_chars":2508,
+    "nb_words":446,
+    "processing_time":1.014,
+    "note":null
+  },
+  {
+    "file":"Reddit 3.pdf",
+    "page":24,
+    "engine":"nanonets",
+    "status":"ok",
+    "nb_chars":2502,
+    "nb_words":435,
+    "processing_time":5.885,
+    "note":null
+  },
+  {
+    "file":"Reddit 3.pdf",
+    "page":25,
+    "engine":"pytesseract",
+    "status":"ok",
+    "nb_chars":989,
+    "nb_words":182,
+    "processing_time":0.755,
+    "note":null
+  },
+  {
+    "file":"Reddit 3.pdf",
+    "page":25,
+    "engine":"easyocr",
+    "status":"unavailable",
+    "nb_chars":0,
+    "nb_words":0,
+    "processing_time":0.0,
+    "note":"easyocr non installé"
+  },
+  {
+    "file":"Reddit 3.pdf",
+    "page":25,
+    "engine":"tika",
+    "status":"ok",
+    "nb_chars":1047,
+    "nb_words":181,
+    "processing_time":0.627,
+    "note":null
+  },
+  {
+    "file":"Reddit 3.pdf",
+    "page":25,
+    "engine":"nanonets",
+    "status":"ok",
+    "nb_chars":1385,
+    "nb_words":204,
+    "processing_time":4.619,
+    "note":null
+  },
+  {
+    "file":"Reddit 3.pdf",
+    "page":26,
+    "engine":"pytesseract",
+    "status":"ok",
+    "nb_chars":1830,
+    "nb_words":320,
+    "processing_time":1.013,
+    "note":null
+  },
+  {
+    "file":"Reddit 3.pdf",
+    "page":26,
+    "engine":"easyocr",
+    "status":"unavailable",
+    "nb_chars":0,
+    "nb_words":0,
+    "processing_time":0.0,
+    "note":"easyocr non installé"
+  },
+  {
+    "file":"Reddit 3.pdf",
+    "page":26,
+    "engine":"tika",
+    "status":"ok",
+    "nb_chars":1857,
+    "nb_words":320,
+    "processing_time":0.836,
+    "note":null
+  },
+  {
+    "file":"Reddit 3.pdf",
+    "page":26,
+    "engine":"nanonets",
+    "status":"ok",
+    "nb_chars":2097,
+    "nb_words":343,
+    "processing_time":5.55,
+    "note":null
+  },
+  {
+    "file":"Reddit 3.pdf",
+    "page":27,
+    "engine":"pytesseract",
+    "status":"ok",
+    "nb_chars":1806,
+    "nb_words":321,
+    "processing_time":0.962,
+    "note":null
+  },
+  {
+    "file":"Reddit 3.pdf",
+    "page":27,
+    "engine":"easyocr",
+    "status":"unavailable",
+    "nb_chars":0,
+    "nb_words":0,
+    "processing_time":0.0,
+    "note":"easyocr non installé"
+  },
+  {
+    "file":"Reddit 3.pdf",
+    "page":27,
+    "engine":"tika",
+    "status":"ok",
+    "nb_chars":1855,
+    "nb_words":321,
+    "processing_time":0.914,
+    "note":null
+  },
+  {
+    "file":"Reddit 3.pdf",
+    "page":27,
+    "engine":"nanonets",
+    "status":"ok",
+    "nb_chars":1906,
+    "nb_words":336,
+    "processing_time":5.567,
+    "note":null
+  },
+  {
+    "file":"Reddit 3.pdf",
+    "page":28,
+    "engine":"pytesseract",
+    "status":"ok",
+    "nb_chars":2084,
+    "nb_words":357,
+    "processing_time":1.084,
+    "note":null
+  },
+  {
+    "file":"Reddit 3.pdf",
+    "page":28,
+    "engine":"easyocr",
+    "status":"unavailable",
+    "nb_chars":0,
+    "nb_words":0,
+    "processing_time":0.0,
+    "note":"easyocr non installé"
+  },
+  {
+    "file":"Reddit 3.pdf",
+    "page":28,
+    "engine":"tika",
+    "status":"ok",
+    "nb_chars":2142,
+    "nb_words":358,
+    "processing_time":0.932,
+    "note":null
+  },
+  {
+    "file":"Reddit 3.pdf",
+    "page":28,
+    "engine":"nanonets",
+    "status":"ok",
+    "nb_chars":2143,
+    "nb_words":351,
+    "processing_time":5.397,
+    "note":null
+  },
+  {
+    "file":"Reddit 3.pdf",
+    "page":29,
+    "engine":"pytesseract",
+    "status":"ok",
+    "nb_chars":1270,
+    "nb_words":230,
+    "processing_time":0.757,
+    "note":null
+  },
+  {
+    "file":"Reddit 3.pdf",
+    "page":29,
+    "engine":"easyocr",
+    "status":"unavailable",
+    "nb_chars":0,
+    "nb_words":0,
+    "processing_time":0.0,
+    "note":"easyocr non installé"
+  },
+  {
+    "file":"Reddit 3.pdf",
+    "page":29,
+    "engine":"tika",
+    "status":"ok",
+    "nb_chars":1298,
+    "nb_words":230,
+    "processing_time":0.689,
+    "note":null
+  },
+  {
+    "file":"Reddit 3.pdf",
+    "page":29,
+    "engine":"nanonets",
+    "status":"ok",
+    "nb_chars":1386,
+    "nb_words":248,
+    "processing_time":5.204,
+    "note":null
+  },
+  {
+    "file":"Reddit 3.pdf",
+    "page":30,
+    "engine":"pytesseract",
+    "status":"ok",
+    "nb_chars":2239,
+    "nb_words":405,
+    "processing_time":1.124,
+    "note":null
+  },
+  {
+    "file":"Reddit 3.pdf",
+    "page":30,
+    "engine":"easyocr",
+    "status":"unavailable",
+    "nb_chars":0,
+    "nb_words":0,
+    "processing_time":0.0,
+    "note":"easyocr non installé"
+  },
+  {
+    "file":"Reddit 3.pdf",
+    "page":30,
+    "engine":"tika",
+    "status":"ok",
+    "nb_chars":2258,
+    "nb_words":406,
+    "processing_time":0.961,
+    "note":null
+  },
+  {
+    "file":"Reddit 3.pdf",
+    "page":30,
+    "engine":"nanonets",
+    "status":"ok",
+    "nb_chars":2328,
+    "nb_words":414,
+    "processing_time":6.692,
+    "note":null
+  },
+  {
+    "file":"Reddit 3.pdf",
+    "page":31,
+    "engine":"pytesseract",
+    "status":"ok",
+    "nb_chars":1994,
+    "nb_words":322,
+    "processing_time":1.044,
+    "note":null
+  },
+  {
+    "file":"Reddit 3.pdf",
+    "page":31,
+    "engine":"easyocr",
+    "status":"unavailable",
+    "nb_chars":0,
+    "nb_words":0,
+    "processing_time":0.0,
+    "note":"easyocr non installé"
+  },
+  {
+    "file":"Reddit 3.pdf",
+    "page":31,
+    "engine":"tika",
+    "status":"ok",
+    "nb_chars":1998,
+    "nb_words":318,
+    "processing_time":0.869,
+    "note":null
+  },
+  {
+    "file":"Reddit 3.pdf",
+    "page":31,
+    "engine":"nanonets",
+    "status":"ok",
+    "nb_chars":2211,
+    "nb_words":336,
+    "processing_time":19.583,
+    "note":null
+  },
+  {
+    "file":"Reddit 3.pdf",
+    "page":32,
+    "engine":"pytesseract",
+    "status":"ok",
+    "nb_chars":1416,
+    "nb_words":247,
+    "processing_time":0.788,
+    "note":null
+  },
+  {
+    "file":"Reddit 3.pdf",
+    "page":32,
+    "engine":"easyocr",
+    "status":"unavailable",
+    "nb_chars":0,
+    "nb_words":0,
+    "processing_time":0.0,
+    "note":"easyocr non installé"
+  },
+  {
+    "file":"Reddit 3.pdf",
+    "page":32,
+    "engine":"tika",
+    "status":"ok",
+    "nb_chars":1433,
+    "nb_words":245,
+    "processing_time":0.73,
+    "note":null
+  },
+  {
+    "file":"Reddit 3.pdf",
+    "page":32,
+    "engine":"nanonets",
+    "status":"ok",
+    "nb_chars":1485,
+    "nb_words":263,
+    "processing_time":6.071,
+    "note":null
+  },
+  {
+    "file":"Reddit 3.pdf",
+    "page":33,
+    "engine":"pytesseract",
+    "status":"ok",
+    "nb_chars":1362,
+    "nb_words":218,
+    "processing_time":0.782,
+    "note":null
+  },
+  {
+    "file":"Reddit 3.pdf",
+    "page":33,
+    "engine":"easyocr",
+    "status":"unavailable",
+    "nb_chars":0,
+    "nb_words":0,
+    "processing_time":0.0,
+    "note":"easyocr non installé"
+  },
+  {
+    "file":"Reddit 3.pdf",
+    "page":33,
+    "engine":"tika",
+    "status":"ok",
+    "nb_chars":1372,
+    "nb_words":215,
+    "processing_time":0.762,
+    "note":null
+  },
+  {
+    "file":"Reddit 3.pdf",
+    "page":33,
+    "engine":"nanonets",
+    "status":"ok",
+    "nb_chars":1474,
+    "nb_words":248,
+    "processing_time":6.033,
+    "note":null
+  },
+  {
+    "file":"Reddit 3.pdf",
+    "page":34,
+    "engine":"pytesseract",
+    "status":"ok",
+    "nb_chars":1431,
+    "nb_words":235,
+    "processing_time":0.833,
+    "note":null
+  },
+  {
+    "file":"Reddit 3.pdf",
+    "page":34,
+    "engine":"easyocr",
+    "status":"unavailable",
+    "nb_chars":0,
+    "nb_words":0,
+    "processing_time":0.0,
+    "note":"easyocr non installé"
+  },
+  {
+    "file":"Reddit 3.pdf",
+    "page":34,
+    "engine":"tika",
+    "status":"ok",
+    "nb_chars":1441,
+    "nb_words":231,
+    "processing_time":0.715,
+    "note":null
+  },
+  {
+    "file":"Reddit 3.pdf",
+    "page":34,
+    "engine":"nanonets",
+    "status":"ok",
+    "nb_chars":1550,
+    "nb_words":248,
+    "processing_time":5.09,
+    "note":null
+  },
+  {
+    "file":"Reddit 3.pdf",
+    "page":35,
+    "engine":"pytesseract",
+    "status":"ok",
+    "nb_chars":385,
+    "nb_words":49,
+    "processing_time":0.365,
+    "note":null
+  },
+  {
+    "file":"Reddit 3.pdf",
+    "page":35,
+    "engine":"easyocr",
+    "status":"unavailable",
+    "nb_chars":0,
+    "nb_words":0,
+    "processing_time":0.0,
+    "note":"easyocr non installé"
+  },
+  {
+    "file":"Reddit 3.pdf",
+    "page":35,
+    "engine":"tika",
+    "status":"ok",
+    "nb_chars":391,
+    "nb_words":49,
+    "processing_time":0.406,
+    "note":null
+  },
+  {
+    "file":"Reddit 3.pdf",
+    "page":35,
+    "engine":"nanonets",
+    "status":"ok",
+    "nb_chars":468,
+    "nb_words":46,
+    "processing_time":2.9,
+    "note":null
+  },
+  {
+    "file":"Reddit 2.pdf",
+    "page":0,
+    "engine":"pytesseract",
+    "status":"ok",
+    "nb_chars":1763,
+    "nb_words":297,
+    "processing_time":0.893,
+    "note":null
+  },
+  {
+    "file":"Reddit 2.pdf",
+    "page":0,
+    "engine":"easyocr",
+    "status":"unavailable",
+    "nb_chars":0,
+    "nb_words":0,
+    "processing_time":0.0,
+    "note":"easyocr non installé"
+  },
+  {
+    "file":"Reddit 2.pdf",
+    "page":0,
+    "engine":"tika",
+    "status":"ok",
+    "nb_chars":1786,
+    "nb_words":297,
+    "processing_time":0.834,
+    "note":null
+  },
+  {
+    "file":"Reddit 2.pdf",
+    "page":0,
+    "engine":"nanonets",
+    "status":"ok",
+    "nb_chars":1904,
+    "nb_words":316,
+    "processing_time":5.32,
+    "note":null
+  },
+  {
+    "file":"Reddit 2.pdf",
+    "page":1,
+    "engine":"pytesseract",
+    "status":"ok",
+    "nb_chars":1248,
+    "nb_words":214,
+    "processing_time":0.76,
+    "note":null
+  },
+  {
+    "file":"Reddit 2.pdf",
+    "page":1,
+    "engine":"easyocr",
+    "status":"unavailable",
+    "nb_chars":0,
+    "nb_words":0,
+    "processing_time":0.0,
+    "note":"easyocr non installé"
+  },
+  {
+    "file":"Reddit 2.pdf",
+    "page":1,
+    "engine":"tika",
+    "status":"ok",
+    "nb_chars":1302,
+    "nb_words":217,
+    "processing_time":0.677,
+    "note":null
+  },
+  {
+    "file":"Reddit 2.pdf",
+    "page":1,
+    "engine":"nanonets",
+    "status":"ok",
+    "nb_chars":1636,
+    "nb_words":247,
+    "processing_time":4.65,
+    "note":null
+  },
+  {
+    "file":"Reddit 2.pdf",
+    "page":2,
+    "engine":"pytesseract",
+    "status":"ok",
+    "nb_chars":2649,
+    "nb_words":464,
+    "processing_time":1.236,
+    "note":null
+  },
+  {
+    "file":"Reddit 2.pdf",
+    "page":2,
+    "engine":"easyocr",
+    "status":"unavailable",
+    "nb_chars":0,
+    "nb_words":0,
+    "processing_time":0.0,
+    "note":"easyocr non installé"
+  },
+  {
+    "file":"Reddit 2.pdf",
+    "page":2,
+    "engine":"tika",
+    "status":"ok",
+    "nb_chars":2679,
+    "nb_words":465,
+    "processing_time":1.065,
+    "note":null
+  },
+  {
+    "file":"Reddit 2.pdf",
+    "page":2,
+    "engine":"nanonets",
+    "status":"ok",
+    "nb_chars":2932,
+    "nb_words":489,
+    "processing_time":6.105,
+    "note":null
+  },
+  {
+    "file":"Reddit 2.pdf",
+    "page":3,
+    "engine":"pytesseract",
+    "status":"ok",
+    "nb_chars":1508,
+    "nb_words":261,
+    "processing_time":0.908,
+    "note":null
+  },
+  {
+    "file":"Reddit 2.pdf",
+    "page":3,
+    "engine":"easyocr",
+    "status":"unavailable",
+    "nb_chars":0,
+    "nb_words":0,
+    "processing_time":0.0,
+    "note":"easyocr non installé"
+  },
+  {
+    "file":"Reddit 2.pdf",
+    "page":3,
+    "engine":"tika",
+    "status":"ok",
+    "nb_chars":1555,
+    "nb_words":262,
+    "processing_time":0.764,
+    "note":null
+  },
+  {
+    "file":"Reddit 2.pdf",
+    "page":3,
+    "engine":"nanonets",
+    "status":"ok",
+    "nb_chars":1865,
+    "nb_words":277,
+    "processing_time":5.051,
+    "note":null
+  },
+  {
+    "file":"Reddit 2.pdf",
+    "page":4,
+    "engine":"pytesseract",
+    "status":"ok",
+    "nb_chars":1912,
+    "nb_words":335,
+    "processing_time":1.0,
+    "note":null
+  },
+  {
+    "file":"Reddit 2.pdf",
+    "page":4,
+    "engine":"easyocr",
+    "status":"unavailable",
+    "nb_chars":0,
+    "nb_words":0,
+    "processing_time":0.0,
+    "note":"easyocr non installé"
+  },
+  {
+    "file":"Reddit 2.pdf",
+    "page":4,
+    "engine":"tika",
+    "status":"ok",
+    "nb_chars":1939,
+    "nb_words":335,
+    "processing_time":0.857,
+    "note":null
+  },
+  {
+    "file":"Reddit 2.pdf",
+    "page":4,
+    "engine":"nanonets",
+    "status":"ok",
+    "nb_chars":1965,
+    "nb_words":341,
+    "processing_time":5.065,
+    "note":null
+  },
+  {
+    "file":"Reddit 2.pdf",
+    "page":5,
+    "engine":"pytesseract",
+    "status":"ok",
+    "nb_chars":1742,
+    "nb_words":311,
+    "processing_time":0.973,
+    "note":null
+  },
+  {
+    "file":"Reddit 2.pdf",
+    "page":5,
+    "engine":"easyocr",
+    "status":"unavailable",
+    "nb_chars":0,
+    "nb_words":0,
+    "processing_time":0.0,
+    "note":"easyocr non installé"
+  },
+  {
+    "file":"Reddit 2.pdf",
+    "page":5,
+    "engine":"tika",
+    "status":"ok",
+    "nb_chars":1791,
+    "nb_words":311,
+    "processing_time":0.832,
+    "note":null
+  },
+  {
+    "file":"Reddit 2.pdf",
+    "page":5,
+    "engine":"nanonets",
+    "status":"ok",
+    "nb_chars":1865,
+    "nb_words":326,
+    "processing_time":5.038,
+    "note":null
+  },
+  {
+    "file":"Reddit 2.pdf",
+    "page":6,
+    "engine":"pytesseract",
+    "status":"ok",
+    "nb_chars":2376,
+    "nb_words":425,
+    "processing_time":1.16,
+    "note":null
+  },
+  {
+    "file":"Reddit 2.pdf",
+    "page":6,
+    "engine":"easyocr",
+    "status":"unavailable",
+    "nb_chars":0,
+    "nb_words":0,
+    "processing_time":0.0,
+    "note":"easyocr non installé"
+  },
+  {
+    "file":"Reddit 2.pdf",
+    "page":6,
+    "engine":"tika",
+    "status":"ok",
+    "nb_chars":2408,
+    "nb_words":423,
+    "processing_time":0.973,
+    "note":null
+  },
+  {
+    "file":"Reddit 2.pdf",
+    "page":6,
+    "engine":"nanonets",
+    "status":"ok",
+    "nb_chars":2380,
+    "nb_words":406,
+    "processing_time":5.457,
+    "note":null
+  },
+  {
+    "file":"Reddit 2.pdf",
+    "page":7,
+    "engine":"pytesseract",
+    "status":"ok",
+    "nb_chars":1742,
+    "nb_words":313,
+    "processing_time":0.991,
+    "note":null
+  },
+  {
+    "file":"Reddit 2.pdf",
+    "page":7,
+    "engine":"easyocr",
+    "status":"unavailable",
+    "nb_chars":0,
+    "nb_words":0,
+    "processing_time":0.0,
+    "note":"easyocr non installé"
+  },
+  {
+    "file":"Reddit 2.pdf",
+    "page":7,
+    "engine":"tika",
+    "status":"ok",
+    "nb_chars":1790,
+    "nb_words":309,
+    "processing_time":0.85,
+    "note":null
+  },
+  {
+    "file":"Reddit 2.pdf",
+    "page":7,
+    "engine":"nanonets",
+    "status":"ok",
+    "nb_chars":2014,
+    "nb_words":330,
+    "processing_time":5.314,
+    "note":null
+  },
+  {
+    "file":"Reddit 2.pdf",
+    "page":8,
+    "engine":"pytesseract",
+    "status":"ok",
+    "nb_chars":1944,
+    "nb_words":352,
+    "processing_time":1.075,
+    "note":null
+  },
+  {
+    "file":"Reddit 2.pdf",
+    "page":8,
+    "engine":"easyocr",
+    "status":"unavailable",
+    "nb_chars":0,
+    "nb_words":0,
+    "processing_time":0.0,
+    "note":"easyocr non installé"
+  },
+  {
+    "file":"Reddit 2.pdf",
+    "page":8,
+    "engine":"tika",
+    "status":"ok",
+    "nb_chars":1983,
+    "nb_words":351,
+    "processing_time":0.883,
+    "note":null
+  },
+  {
+    "file":"Reddit 2.pdf",
+    "page":8,
+    "engine":"nanonets",
+    "status":"ok",
+    "nb_chars":1991,
+    "nb_words":352,
+    "processing_time":5.347,
+    "note":null
+  },
+  {
+    "file":"Reddit 2.pdf",
+    "page":9,
+    "engine":"pytesseract",
+    "status":"ok",
+    "nb_chars":1873,
+    "nb_words":325,
+    "processing_time":1.132,
+    "note":null
+  },
+  {
+    "file":"Reddit 2.pdf",
+    "page":9,
+    "engine":"easyocr",
+    "status":"unavailable",
+    "nb_chars":0,
+    "nb_words":0,
+    "processing_time":0.0,
+    "note":"easyocr non installé"
+  },
+  {
+    "file":"Reddit 2.pdf",
+    "page":9,
+    "engine":"tika",
+    "status":"ok",
+    "nb_chars":1915,
+    "nb_words":321,
+    "processing_time":0.859,
+    "note":null
+  },
+  {
+    "file":"Reddit 2.pdf",
+    "page":9,
+    "engine":"nanonets",
+    "status":"ok",
+    "nb_chars":1926,
+    "nb_words":332,
+    "processing_time":5.452,
+    "note":null
+  },
+  {
+    "file":"Reddit 2.pdf",
+    "page":10,
+    "engine":"pytesseract",
+    "status":"ok",
+    "nb_chars":1589,
+    "nb_words":273,
+    "processing_time":0.954,
+    "note":null
+  },
+  {
+    "file":"Reddit 2.pdf",
+    "page":10,
+    "engine":"easyocr",
+    "status":"unavailable",
+    "nb_chars":0,
+    "nb_words":0,
+    "processing_time":0.0,
+    "note":"easyocr non installé"
+  },
+  {
+    "file":"Reddit 2.pdf",
+    "page":10,
+    "engine":"tika",
+    "status":"ok",
+    "nb_chars":1619,
+    "nb_words":273,
+    "processing_time":0.783,
+    "note":null
+  },
+  {
+    "file":"Reddit 2.pdf",
+    "page":10,
+    "engine":"nanonets",
+    "status":"ok",
+    "nb_chars":1701,
+    "nb_words":283,
+    "processing_time":5.146,
+    "note":null
+  },
+  {
+    "file":"Reddit 2.pdf",
+    "page":11,
+    "engine":"pytesseract",
+    "status":"ok",
+    "nb_chars":2130,
+    "nb_words":376,
+    "processing_time":1.197,
+    "note":null
+  },
+  {
+    "file":"Reddit 2.pdf",
+    "page":11,
+    "engine":"easyocr",
+    "status":"unavailable",
+    "nb_chars":0,
+    "nb_words":0,
+    "processing_time":0.0,
+    "note":"easyocr non installé"
+  },
+  {
+    "file":"Reddit 2.pdf",
+    "page":11,
+    "engine":"tika",
+    "status":"ok",
+    "nb_chars":2180,
+    "nb_words":378,
+    "processing_time":0.96,
+    "note":null
+  },
+  {
+    "file":"Reddit 2.pdf",
+    "page":11,
+    "engine":"nanonets",
+    "status":"ok",
+    "nb_chars":2468,
+    "nb_words":402,
+    "processing_time":13.521,
+    "note":null
+  },
+  {
+    "file":"Reddit 2.pdf",
+    "page":12,
+    "engine":"pytesseract",
+    "status":"ok",
+    "nb_chars":1179,
+    "nb_words":211,
+    "processing_time":0.747,
+    "note":null
+  },
+  {
+    "file":"Reddit 2.pdf",
+    "page":12,
+    "engine":"easyocr",
+    "status":"unavailable",
+    "nb_chars":0,
+    "nb_words":0,
+    "processing_time":0.0,
+    "note":"easyocr non installé"
+  },
+  {
+    "file":"Reddit 2.pdf",
+    "page":12,
+    "engine":"tika",
+    "status":"ok",
+    "nb_chars":1188,
+    "nb_words":204,
+    "processing_time":0.679,
+    "note":null
+  },
+  {
+    "file":"Reddit 2.pdf",
+    "page":12,
+    "engine":"nanonets",
+    "status":"ok",
+    "nb_chars":2146,
+    "nb_words":254,
+    "processing_time":10.151,
+    "note":null
+  },
+  {
+    "file":"Reddit 2.pdf",
+    "page":13,
+    "engine":"pytesseract",
+    "status":"ok",
+    "nb_chars":1791,
+    "nb_words":320,
+    "processing_time":0.967,
+    "note":null
+  },
+  {
+    "file":"Reddit 2.pdf",
+    "page":13,
+    "engine":"easyocr",
+    "status":"unavailable",
+    "nb_chars":0,
+    "nb_words":0,
+    "processing_time":0.0,
+    "note":"easyocr non installé"
+  },
+  {
+    "file":"Reddit 2.pdf",
+    "page":13,
+    "engine":"tika",
+    "status":"ok",
+    "nb_chars":1834,
+    "nb_words":322,
+    "processing_time":0.847,
+    "note":null
+  },
+  {
+    "file":"Reddit 2.pdf",
+    "page":13,
+    "engine":"nanonets",
+    "status":"ok",
+    "nb_chars":1866,
+    "nb_words":330,
+    "processing_time":5.114,
+    "note":null
+  },
+  {
+    "file":"Reddit 2.pdf",
+    "page":14,
+    "engine":"pytesseract",
+    "status":"ok",
+    "nb_chars":1750,
+    "nb_words":315,
+    "processing_time":0.957,
+    "note":null
+  },
+  {
+    "file":"Reddit 2.pdf",
+    "page":14,
+    "engine":"easyocr",
+    "status":"unavailable",
+    "nb_chars":0,
+    "nb_words":0,
+    "processing_time":0.0,
+    "note":"easyocr non installé"
+  },
+  {
+    "file":"Reddit 2.pdf",
+    "page":14,
+    "engine":"tika",
+    "status":"ok",
+    "nb_chars":1792,
+    "nb_words":314,
+    "processing_time":0.832,
+    "note":null
+  },
+  {
+    "file":"Reddit 2.pdf",
+    "page":14,
+    "engine":"nanonets",
+    "status":"ok",
+    "nb_chars":1839,
+    "nb_words":323,
+    "processing_time":4.969,
+    "note":null
+  },
+  {
+    "file":"Reddit 2.pdf",
+    "page":15,
+    "engine":"pytesseract",
+    "status":"ok",
+    "nb_chars":1837,
+    "nb_words":331,
+    "processing_time":1.012,
+    "note":null
+  },
+  {
+    "file":"Reddit 2.pdf",
+    "page":15,
+    "engine":"easyocr",
+    "status":"unavailable",
+    "nb_chars":0,
+    "nb_words":0,
+    "processing_time":0.0,
+    "note":"easyocr non installé"
+  },
+  {
+    "file":"Reddit 2.pdf",
+    "page":15,
+    "engine":"tika",
+    "status":"ok",
+    "nb_chars":1898,
+    "nb_words":334,
+    "processing_time":0.857,
+    "note":null
+  },
+  {
+    "file":"Reddit 2.pdf",
+    "page":15,
+    "engine":"nanonets",
+    "status":"ok",
+    "nb_chars":1962,
+    "nb_words":346,
+    "processing_time":5.363,
+    "note":null
+  },
+  {
+    "file":"Reddit 2.pdf",
+    "page":16,
+    "engine":"pytesseract",
+    "status":"ok",
+    "nb_chars":1426,
+    "nb_words":256,
+    "processing_time":0.852,
+    "note":null
+  },
+  {
+    "file":"Reddit 2.pdf",
+    "page":16,
+    "engine":"easyocr",
+    "status":"unavailable",
+    "nb_chars":0,
+    "nb_words":0,
+    "processing_time":0.0,
+    "note":"easyocr non installé"
+  },
+  {
+    "file":"Reddit 2.pdf",
+    "page":16,
+    "engine":"tika",
+    "status":"ok",
+    "nb_chars":1457,
+    "nb_words":259,
+    "processing_time":0.73,
+    "note":null
+  },
+  {
+    "file":"Reddit 2.pdf",
+    "page":16,
+    "engine":"nanonets",
+    "status":"ok",
+    "nb_chars":1332,
+    "nb_words":239,
+    "processing_time":4.551,
+    "note":null
+  },
+  {
+    "file":"Reddit 2.pdf",
+    "page":17,
+    "engine":"pytesseract",
+    "status":"ok",
+    "nb_chars":2287,
+    "nb_words":419,
+    "processing_time":1.084,
+    "note":null
+  },
+  {
+    "file":"Reddit 2.pdf",
+    "page":17,
+    "engine":"easyocr",
+    "status":"unavailable",
+    "nb_chars":0,
+    "nb_words":0,
+    "processing_time":0.0,
+    "note":"easyocr non installé"
+  },
+  {
+    "file":"Reddit 2.pdf",
+    "page":17,
+    "engine":"tika",
+    "status":"ok",
+    "nb_chars":2336,
+    "nb_words":421,
+    "processing_time":0.983,
+    "note":null
+  },
+  {
+    "file":"Reddit 2.pdf",
+    "page":17,
+    "engine":"nanonets",
+    "status":"ok",
+    "nb_chars":2370,
+    "nb_words":425,
+    "processing_time":6.195,
+    "note":null
+  },
+  {
+    "file":"Reddit 2.pdf",
+    "page":18,
+    "engine":"pytesseract",
+    "status":"ok",
+    "nb_chars":1371,
+    "nb_words":243,
+    "processing_time":0.833,
+    "note":null
+  },
+  {
+    "file":"Reddit 2.pdf",
+    "page":18,
+    "engine":"easyocr",
+    "status":"unavailable",
+    "nb_chars":0,
+    "nb_words":0,
+    "processing_time":0.0,
+    "note":"easyocr non installé"
+  },
+  {
+    "file":"Reddit 2.pdf",
+    "page":18,
+    "engine":"tika",
+    "status":"ok",
+    "nb_chars":1400,
+    "nb_words":243,
+    "processing_time":0.707,
+    "note":null
+  },
+  {
+    "file":"Reddit 2.pdf",
+    "page":18,
+    "engine":"nanonets",
+    "status":"ok",
+    "nb_chars":1388,
+    "nb_words":236,
+    "processing_time":5.137,
+    "note":null
+  },
+  {
+    "file":"Reddit 2.pdf",
+    "page":19,
+    "engine":"pytesseract",
+    "status":"ok",
+    "nb_chars":1947,
+    "nb_words":343,
+    "processing_time":1.042,
+    "note":null
+  },
+  {
+    "file":"Reddit 2.pdf",
+    "page":19,
+    "engine":"easyocr",
+    "status":"unavailable",
+    "nb_chars":0,
+    "nb_words":0,
+    "processing_time":0.0,
+    "note":"easyocr non installé"
+  },
+  {
+    "file":"Reddit 2.pdf",
+    "page":19,
+    "engine":"tika",
+    "status":"ok",
+    "nb_chars":1966,
+    "nb_words":338,
+    "processing_time":0.865,
+    "note":null
+  },
+  {
+    "file":"Reddit 2.pdf",
+    "page":19,
+    "engine":"nanonets",
+    "status":"ok",
+    "nb_chars":2217,
+    "nb_words":369,
+    "processing_time":5.675,
+    "note":null
+  },
+  {
+    "file":"Reddit 2.pdf",
+    "page":20,
+    "engine":"pytesseract",
+    "status":"ok",
+    "nb_chars":1528,
+    "nb_words":263,
+    "processing_time":0.836,
+    "note":null
+  },
+  {
+    "file":"Reddit 2.pdf",
+    "page":20,
+    "engine":"easyocr",
+    "status":"unavailable",
+    "nb_chars":0,
+    "nb_words":0,
+    "processing_time":0.0,
+    "note":"easyocr non installé"
+  },
+  {
+    "file":"Reddit 2.pdf",
+    "page":20,
+    "engine":"tika",
+    "status":"ok",
+    "nb_chars":1544,
+    "nb_words":261,
+    "processing_time":0.74,
+    "note":null
+  },
+  {
+    "file":"Reddit 2.pdf",
+    "page":20,
+    "engine":"nanonets",
+    "status":"ok",
+    "nb_chars":1588,
+    "nb_words":281,
+    "processing_time":5.51,
+    "note":null
+  },
+  {
+    "file":"Reddit 2.pdf",
+    "page":21,
+    "engine":"pytesseract",
+    "status":"ok",
+    "nb_chars":1486,
+    "nb_words":261,
+    "processing_time":0.815,
+    "note":null
+  },
+  {
+    "file":"Reddit 2.pdf",
+    "page":21,
+    "engine":"easyocr",
+    "status":"unavailable",
+    "nb_chars":0,
+    "nb_words":0,
+    "processing_time":0.0,
+    "note":"easyocr non installé"
+  },
+  {
+    "file":"Reddit 2.pdf",
+    "page":21,
+    "engine":"tika",
+    "status":"ok",
+    "nb_chars":1514,
+    "nb_words":258,
+    "processing_time":0.728,
+    "note":null
+  },
+  {
+    "file":"Reddit 2.pdf",
+    "page":21,
+    "engine":"nanonets",
+    "status":"ok",
+    "nb_chars":1547,
+    "nb_words":285,
+    "processing_time":4.838,
+    "note":null
+  },
+  {
+    "file":"Reddit 2.pdf",
+    "page":22,
+    "engine":"pytesseract",
+    "status":"ok",
+    "nb_chars":757,
+    "nb_words":113,
+    "processing_time":0.506,
+    "note":null
+  },
+  {
+    "file":"Reddit 2.pdf",
+    "page":22,
+    "engine":"easyocr",
+    "status":"unavailable",
+    "nb_chars":0,
+    "nb_words":0,
+    "processing_time":0.0,
+    "note":"easyocr non installé"
+  },
+  {
+    "file":"Reddit 2.pdf",
+    "page":22,
+    "engine":"tika",
+    "status":"ok",
+    "nb_chars":777,
+    "nb_words":115,
+    "processing_time":0.556,
+    "note":null
+  },
+  {
+    "file":"Reddit 2.pdf",
+    "page":22,
+    "engine":"nanonets",
+    "status":"ok",
+    "nb_chars":1006,
+    "nb_words":132,
+    "processing_time":3.585,
+    "note":null
+  },
+  {
+    "file":"Reddit 1.pdf",
+    "page":0,
+    "engine":"pytesseract",
+    "status":"ok",
+    "nb_chars":2026,
+    "nb_words":343,
+    "processing_time":1.049,
+    "note":null
+  },
+  {
+    "file":"Reddit 1.pdf",
+    "page":0,
+    "engine":"easyocr",
+    "status":"unavailable",
+    "nb_chars":0,
+    "nb_words":0,
+    "processing_time":0.0,
+    "note":"easyocr non installé"
+  },
+  {
+    "file":"Reddit 1.pdf",
+    "page":0,
+    "engine":"tika",
+    "status":"ok",
+    "nb_chars":2043,
+    "nb_words":341,
+    "processing_time":0.901,
+    "note":null
+  },
+  {
+    "file":"Reddit 1.pdf",
+    "page":0,
+    "engine":"nanonets",
+    "status":"ok",
+    "nb_chars":2143,
+    "nb_words":343,
+    "processing_time":13.326,
+    "note":null
+  },
+  {
+    "file":"Reddit 1.pdf",
+    "page":1,
+    "engine":"pytesseract",
+    "status":"ok",
+    "nb_chars":1701,
+    "nb_words":302,
+    "processing_time":0.955,
+    "note":null
+  },
+  {
+    "file":"Reddit 1.pdf",
+    "page":1,
+    "engine":"easyocr",
+    "status":"unavailable",
+    "nb_chars":0,
+    "nb_words":0,
+    "processing_time":0.0,
+    "note":"easyocr non installé"
+  },
+  {
+    "file":"Reddit 1.pdf",
+    "page":1,
+    "engine":"tika",
+    "status":"ok",
+    "nb_chars":1741,
+    "nb_words":301,
+    "processing_time":0.864,
+    "note":null
+  },
+  {
+    "file":"Reddit 1.pdf",
+    "page":1,
+    "engine":"nanonets",
+    "status":"ok",
+    "nb_chars":1810,
+    "nb_words":321,
+    "processing_time":12.459,
+    "note":null
+  },
+  {
+    "file":"Reddit 1.pdf",
+    "page":2,
+    "engine":"pytesseract",
+    "status":"ok",
+    "nb_chars":1532,
+    "nb_words":272,
+    "processing_time":0.901,
+    "note":null
+  },
+  {
+    "file":"Reddit 1.pdf",
+    "page":2,
+    "engine":"easyocr",
+    "status":"unavailable",
+    "nb_chars":0,
+    "nb_words":0,
+    "processing_time":0.0,
+    "note":"easyocr non installé"
+  },
+  {
+    "file":"Reddit 1.pdf",
+    "page":2,
+    "engine":"tika",
+    "status":"ok",
+    "nb_chars":1571,
+    "nb_words":269,
+    "processing_time":0.769,
+    "note":null
+  },
+  {
+    "file":"Reddit 1.pdf",
+    "page":2,
+    "engine":"nanonets",
+    "status":"ok",
+    "nb_chars":1580,
+    "nb_words":269,
+    "processing_time":12.0,
+    "note":null
+  },
+  {
+    "file":"Reddit 1.pdf",
+    "page":3,
+    "engine":"pytesseract",
+    "status":"ok",
+    "nb_chars":1873,
+    "nb_words":342,
+    "processing_time":0.941,
+    "note":null
+  },
+  {
+    "file":"Reddit 1.pdf",
+    "page":3,
+    "engine":"easyocr",
+    "status":"unavailable",
+    "nb_chars":0,
+    "nb_words":0,
+    "processing_time":0.0,
+    "note":"easyocr non installé"
+  },
+  {
+    "file":"Reddit 1.pdf",
+    "page":3,
+    "engine":"tika",
+    "status":"ok",
+    "nb_chars":1902,
+    "nb_words":340,
+    "processing_time":0.939,
+    "note":null
+  },
+  {
+    "file":"Reddit 1.pdf",
+    "page":3,
+    "engine":"nanonets",
+    "status":"ok",
+    "nb_chars":2183,
+    "nb_words":353,
+    "processing_time":9.193,
+    "note":null
+  },
+  {
+    "file":"Reddit 1.pdf",
+    "page":4,
+    "engine":"pytesseract",
+    "status":"ok",
+    "nb_chars":2030,
+    "nb_words":366,
+    "processing_time":1.275,
+    "note":null
+  },
+  {
+    "file":"Reddit 1.pdf",
+    "page":4,
+    "engine":"easyocr",
+    "status":"unavailable",
+    "nb_chars":0,
+    "nb_words":0,
+    "processing_time":0.0,
+    "note":"easyocr non installé"
+  },
+  {
+    "file":"Reddit 1.pdf",
+    "page":4,
+    "engine":"tika",
+    "status":"ok",
+    "nb_chars":2070,
+    "nb_words":366,
+    "processing_time":0.921,
+    "note":null
+  },
+  {
+    "file":"Reddit 1.pdf",
+    "page":4,
+    "engine":"nanonets",
+    "status":"ok",
+    "nb_chars":2228,
+    "nb_words":378,
+    "processing_time":10.404,
+    "note":null
+  },
+  {
+    "file":"Reddit 1.pdf",
+    "page":5,
+    "engine":"pytesseract",
+    "status":"ok",
+    "nb_chars":1608,
+    "nb_words":293,
+    "processing_time":0.959,
+    "note":null
+  },
+  {
+    "file":"Reddit 1.pdf",
+    "page":5,
+    "engine":"easyocr",
+    "status":"unavailable",
+    "nb_chars":0,
+    "nb_words":0,
+    "processing_time":0.0,
+    "note":"easyocr non installé"
+  },
+  {
+    "file":"Reddit 1.pdf",
+    "page":5,
+    "engine":"tika",
+    "status":"ok",
+    "nb_chars":1638,
+    "nb_words":292,
+    "processing_time":0.847,
+    "note":null
+  },
+  {
+    "file":"Reddit 1.pdf",
+    "page":5,
+    "engine":"nanonets",
+    "status":"ok",
+    "nb_chars":1957,
+    "nb_words":303,
+    "processing_time":15.114,
+    "note":null
+  },
+  {
+    "file":"Reddit 1.pdf",
+    "page":6,
+    "engine":"pytesseract",
+    "status":"ok",
+    "nb_chars":2033,
+    "nb_words":351,
+    "processing_time":1.143,
+    "note":null
+  },
+  {
+    "file":"Reddit 1.pdf",
+    "page":6,
+    "engine":"easyocr",
+    "status":"unavailable",
+    "nb_chars":0,
+    "nb_words":0,
+    "processing_time":0.0,
+    "note":"easyocr non installé"
+  },
+  {
+    "file":"Reddit 1.pdf",
+    "page":6,
+    "engine":"tika",
+    "status":"ok",
+    "nb_chars":2081,
+    "nb_words":353,
+    "processing_time":0.894,
+    "note":null
+  },
+  {
+    "file":"Reddit 1.pdf",
+    "page":6,
+    "engine":"nanonets",
+    "status":"ok",
+    "nb_chars":2142,
+    "nb_words":367,
+    "processing_time":13.423,
+    "note":null
+  },
+  {
+    "file":"Reddit 1.pdf",
+    "page":7,
+    "engine":"pytesseract",
+    "status":"ok",
+    "nb_chars":1873,
+    "nb_words":315,
+    "processing_time":1.0,
+    "note":null
+  },
+  {
+    "file":"Reddit 1.pdf",
+    "page":7,
+    "engine":"easyocr",
+    "status":"unavailable",
+    "nb_chars":0,
+    "nb_words":0,
+    "processing_time":0.0,
+    "note":"easyocr non installé"
+  },
+  {
+    "file":"Reddit 1.pdf",
+    "page":7,
+    "engine":"tika",
+    "status":"ok",
+    "nb_chars":1930,
+    "nb_words":313,
+    "processing_time":0.865,
+    "note":null
+  },
+  {
+    "file":"Reddit 1.pdf",
+    "page":7,
+    "engine":"nanonets",
+    "status":"ok",
+    "nb_chars":1923,
+    "nb_words":309,
+    "processing_time":9.377,
+    "note":null
+  },
+  {
+    "file":"Reddit 1.pdf",
+    "page":8,
+    "engine":"pytesseract",
+    "status":"ok",
+    "nb_chars":1691,
+    "nb_words":304,
+    "processing_time":1.055,
+    "note":null
+  },
+  {
+    "file":"Reddit 1.pdf",
+    "page":8,
+    "engine":"easyocr",
+    "status":"unavailable",
+    "nb_chars":0,
+    "nb_words":0,
+    "processing_time":0.0,
+    "note":"easyocr non installé"
+  },
+  {
+    "file":"Reddit 1.pdf",
+    "page":8,
+    "engine":"tika",
+    "status":"ok",
+    "nb_chars":1749,
+    "nb_words":303,
+    "processing_time":0.834,
+    "note":null
+  },
+  {
+    "file":"Reddit 1.pdf",
+    "page":8,
+    "engine":"nanonets",
+    "status":"ok",
+    "nb_chars":2078,
+    "nb_words":323,
+    "processing_time":8.021,
+    "note":null
+  },
+  {
+    "file":"Reddit 1.pdf",
+    "page":9,
+    "engine":"pytesseract",
+    "status":"ok",
+    "nb_chars":1824,
+    "nb_words":321,
+    "processing_time":1.14,
+    "note":null
+  },
+  {
+    "file":"Reddit 1.pdf",
+    "page":9,
+    "engine":"easyocr",
+    "status":"unavailable",
+    "nb_chars":0,
+    "nb_words":0,
+    "processing_time":0.0,
+    "note":"easyocr non installé"
+  },
+  {
+    "file":"Reddit 1.pdf",
+    "page":9,
+    "engine":"tika",
+    "status":"ok",
+    "nb_chars":1865,
+    "nb_words":323,
+    "processing_time":0.878,
+    "note":null
+  },
+  {
+    "file":"Reddit 1.pdf",
+    "page":9,
+    "engine":"nanonets",
+    "status":"ok",
+    "nb_chars":1880,
+    "nb_words":319,
+    "processing_time":8.121,
+    "note":null
+  },
+  {
+    "file":"Reddit 1.pdf",
+    "page":10,
+    "engine":"pytesseract",
+    "status":"ok",
+    "nb_chars":1706,
+    "nb_words":306,
+    "processing_time":0.914,
+    "note":null
+  },
+  {
+    "file":"Reddit 1.pdf",
+    "page":10,
+    "engine":"easyocr",
+    "status":"unavailable",
+    "nb_chars":0,
+    "nb_words":0,
+    "processing_time":0.0,
+    "note":"easyocr non installé"
+  },
+  {
+    "file":"Reddit 1.pdf",
+    "page":10,
+    "engine":"tika",
+    "status":"ok",
+    "nb_chars":1745,
+    "nb_words":305,
+    "processing_time":0.848,
+    "note":null
+  },
+  {
+    "file":"Reddit 1.pdf",
+    "page":10,
+    "engine":"nanonets",
+    "status":"ok",
+    "nb_chars":1796,
+    "nb_words":317,
+    "processing_time":16.573,
+    "note":null
+  },
+  {
+    "file":"Reddit 1.pdf",
+    "page":11,
+    "engine":"pytesseract",
+    "status":"ok",
+    "nb_chars":1858,
+    "nb_words":319,
+    "processing_time":0.986,
+    "note":null
+  },
+  {
+    "file":"Reddit 1.pdf",
+    "page":11,
+    "engine":"easyocr",
+    "status":"unavailable",
+    "nb_chars":0,
+    "nb_words":0,
+    "processing_time":0.0,
+    "note":"easyocr non installé"
+  },
+  {
+    "file":"Reddit 1.pdf",
+    "page":11,
+    "engine":"tika",
+    "status":"ok",
+    "nb_chars":1879,
+    "nb_words":318,
+    "processing_time":0.855,
+    "note":null
+  },
+  {
+    "file":"Reddit 1.pdf",
+    "page":11,
+    "engine":"nanonets",
+    "status":"ok",
+    "nb_chars":1897,
+    "nb_words":319,
+    "processing_time":7.29,
+    "note":null
+  },
+  {
+    "file":"Reddit 1.pdf",
+    "page":12,
+    "engine":"pytesseract",
+    "status":"ok",
+    "nb_chars":1489,
+    "nb_words":254,
+    "processing_time":0.831,
+    "note":null
+  },
+  {
+    "file":"Reddit 1.pdf",
+    "page":12,
+    "engine":"easyocr",
+    "status":"unavailable",
+    "nb_chars":0,
+    "nb_words":0,
+    "processing_time":0.0,
+    "note":"easyocr non installé"
+  },
+  {
+    "file":"Reddit 1.pdf",
+    "page":12,
+    "engine":"tika",
+    "status":"ok",
+    "nb_chars":1498,
+    "nb_words":252,
+    "processing_time":0.762,
+    "note":null
+  },
+  {
+    "file":"Reddit 1.pdf",
+    "page":12,
+    "engine":"nanonets",
+    "status":"ok",
+    "nb_chars":1505,
+    "nb_words":269,
+    "processing_time":6.04,
+    "note":null
+  },
+  {
+    "file":"Reddit 1.pdf",
+    "page":13,
+    "engine":"pytesseract",
+    "status":"ok",
+    "nb_chars":1280,
+    "nb_words":209,
+    "processing_time":0.798,
+    "note":null
+  },
+  {
+    "file":"Reddit 1.pdf",
+    "page":13,
+    "engine":"easyocr",
+    "status":"unavailable",
+    "nb_chars":0,
+    "nb_words":0,
+    "processing_time":0.0,
+    "note":"easyocr non installé"
+  },
+  {
+    "file":"Reddit 1.pdf",
+    "page":13,
+    "engine":"tika",
+    "status":"ok",
+    "nb_chars":1296,
+    "nb_words":209,
+    "processing_time":0.729,
+    "note":null
+  },
+  {
+    "file":"Reddit 1.pdf",
+    "page":13,
+    "engine":"nanonets",
+    "status":"ok",
+    "nb_chars":1324,
+    "nb_words":224,
+    "processing_time":7.009,
+    "note":null
+  },
+  {
+    "file":"Reddit 1.pdf",
+    "page":14,
+    "engine":"pytesseract",
+    "status":"ok",
+    "nb_chars":653,
+    "nb_words":98,
+    "processing_time":0.541,
+    "note":null
+  },
+  {
+    "file":"Reddit 1.pdf",
+    "page":14,
+    "engine":"easyocr",
+    "status":"unavailable",
+    "nb_chars":0,
+    "nb_words":0,
+    "processing_time":0.0,
+    "note":"easyocr non installé"
+  },
+  {
+    "file":"Reddit 1.pdf",
+    "page":14,
+    "engine":"tika",
+    "status":"ok",
+    "nb_chars":662,
+    "nb_words":97,
+    "processing_time":0.5,
+    "note":null
+  },
+  {
+    "file":"Reddit 1.pdf",
+    "page":14,
+    "engine":"nanonets",
+    "status":"ok",
+    "nb_chars":854,
+    "nb_words":106,
+    "processing_time":6.464,
+    "note":null
+  }
+]

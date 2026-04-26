@@ -1,0 +1,93 @@
+{
+  "meta": {
+    "total_questions": 9,
+    "categories": {
+      "simple": 3,
+      "complex": 3,
+      "noisy": 3
+    },
+    "ragas_available": true
+  },
+  "samples": [
+    {
+      "question": "Quel joueur a marqué le plus de points au total cette saison ?",
+      "answer": "Shai Gilgeous-Alexander.",
+      "contexts_count": 5,
+      "ground_truth": "Shai Gilgeous-Alexander est le meilleur marqueur de la saison régulière avec 2485 points.",
+      "category": "simple"
+    },
+    {
+      "question": "Quel est le pourcentage moyen aux lancers francs des joueurs NBA cette saison ?",
+      "answer": "Le contexte fourni ne contient pas d'information sur le pourcentage moyen aux lancers francs des joueurs NBA cette saison.",
+      "contexts_count": 5,
+      "ground_truth": "Le pourcentage moyen aux lancers francs des joueurs NBA est d'environ 80%.",
+      "category": "simple"
+    },
+    {
+      "question": "Qui est le meilleur intercepteur (STL) de la saison régulière ?",
+      "answer": "D'après le contexte fourni, le fichier **regular NBA.xlsx** ne contient pas de données sur les interceptions (STL) pour la saison régulière. Les seules statistiques liées aux interceptions mentionnées sont dans le dictionnaire des données (colonne 22), mais aucune valeur n'est fournie dans la feuille **Analyse** ou ailleurs.\n\n**Réponse :** *Le contexte ne permet pas de déterminer le meilleur intercepteur de la saison régulière.*",
+      "contexts_count": 5,
+      "ground_truth": "Le joueur avec le plus d'interceptions est parmi les meneurs de jeu défensifs.",
+      "category": "simple"
+    },
+    {
+      "question": "Quel joueur a le meilleur pourcentage à 3 points parmi ceux qui tirent au moins 3 fois par match ?",
+      "answer": "Le contexte fourni ne contient pas d'information sur les joueurs qui tirent au moins 3 fois par match (3PA ≥ 3) ni sur leur pourcentage de réussite à 3 points (3P%). Il faudrait des données supplémentaires (comme une feuille avec les statistiques individuelles des joueurs) pour répondre à cette question.",
+      "contexts_count": 5,
+      "ground_truth": "Parmi les joueurs tirant au moins 3 tentatives par match à 3 points, le meilleur pourcentage dépasse généralement 42%.",
+      "category": "complex"
+    },
+    {
+      "question": "Compare les statistiques de rebonds (OREB et DREB) des joueurs de l'équipe OKC par rapport à l'équipe DEN cette saison.",
+      "answer": "Je ne peux pas comparer les statistiques de rebonds (OREB et DREB) des joueurs de l'équipe OKC par rapport à l'équipe DEN cette saison, car le contexte fourni ne contient **aucune donnée** sur les joueurs de ces équipes (OKC ou DEN) ou leurs statistiques individuelles de rebonds.\n\nLes seules données disponibles concernent :\n- Un dictionnaire des données (définitions des colonnes)\n- Une analyse partielle du top 15 des marqueurs de points (uniquement Shai Gilgeous-Alexander)\n- Un extrait de discussion Reddit sans données statistiques.\n\nPour répondre à votre question, il faudrait accéder aux données des joueurs des deux équipes (OKC et DEN) avec leurs statistiques de rebonds (OREB et DREB).",
+      "contexts_count": 5,
+      "ground_truth": "L'équipe DEN est dominée par Nikola Jokić qui cumule des statistiques de rebonds exceptionnelles (889 rebonds totaux).",
+      "category": "complex"
+    },
+    {
+      "question": "Quelle équipe a le meilleur ratio victoires/matchs joués parmi les équipes de conférence Ouest ?",
+      "answer": "Pour calculer le ratio victoires/défaites parmi les équipes de la conférence Ouest, il faut d'abord identifier quelles équipes appartiennent à cette conférence. Le contexte fourni ne contient pas cette information.\n\n**Réponse:** Impossible de déterminer le ratio victoires/défaites sans connaître la répartition des équipes entre les conférences Est et Ouest.",
+      "contexts_count": 5,
+      "ground_truth": "L'équipe OKC présente un excellent bilan avec 63 victoires sur 76 matchs.",
+      "category": "complex"
+    },
+    {
+      "question": "shai gilgeous c'est qui exactement et c'est quoi ses stats???",
+      "answer": "Shai Gilgeous-Alexander (SGA) est un joueur de basket NBA évoluant au poste de meneur/arrière. Voici ses principales statistiques extraites du contexte fourni :\n\n**Stats clés (saison régulière) :**\n- **Points totaux** : 2485 (top 15 NBA)\n- **Tirs réussis (FGM)** : 859\n- **Pourcentage de tirs réussis (FG%)** : 51.9%\n- **Pourcentage à 3 points (3P%)** : 37.5%\n- **Pourcentage aux lancers francs (FT%)** : 89.8%\n- **Rebonds offensifs** : 68\n- **Estimation d'impact (PIE)** : 19.9% (très élevé, indiquant une contribution majeure)\n\n**Autres indicateurs (non détaillés dans le contexte mais disponibles dans les feuilles) :**\n- Usage Rate (USG%) : % élevé d'actions utilisées (à vérifier dans la feuille \"Analyse\").\n- Offensive/Defensive Rating (OFFRTG/DEFRTG) : Efficacité offensive/défensive (à vérifier).\n- Triple-doubles (TD3) : Nombre de performances à ≥10 dans 3 catégories (à vérifier).\n\n**Contexte supplémentaire :**\n- Âge : Non précisé dans le contexte.\n- Équipe : Non précisée dans le contexte (mais SGA joue généralement pour les Oklahoma City Thunder).\n\n*Note : Les données manquent pour des stats comme les passes, pertes de balle, ou minutes jouées.*",
+      "contexts_count": 5,
+      "ground_truth": "Shai Gilgeous-Alexander est le meneur de l'OKC Thunder, meilleur marqueur de la saison avec 2485 points, 51.9% au tir.",
+      "category": "noisy"
+    },
+    {
+      "question": "meilleur rebondeur genre top 3 joueurs ?? genre les pivots?",
+      "answer": "D'après le contexte fourni (feuille *Analyse* du fichier *regular NBA.xlsx*), le seul joueur mentionné avec des données de rebonds est **Shai Gilgeous-Alexander**, avec **68 rebonds offensifs** et un **impact estimé à 19.9**.\n\nAucun autre joueur (notamment des pivots) n'est listé dans ce contexte pour comparer les rebonds. Les données disponibles ne permettent pas d'identifier les **top 3 rebondeurs** ou les pivots dominants.\n\n**Réponse claire** : *Le contexte ne fournit pas suffisamment d'informations pour déterminer les meilleurs rebondeurs (top 3 pivots).*",
+      "contexts_count": 5,
+      "ground_truth": "Les meilleurs rebondeurs sont généralement les pivots. Nikola Jokić de Denver domine avec 889 rebonds.",
+      "category": "noisy"
+    },
+    {
+      "question": "ekip qui gagne le plus en 2024 2025 nba saison reguliere",
+      "answer": "Le contexte fourni ne contient pas d'information sur le classement ou les résultats de la saison régulière NBA 2024-2025. Je ne peux donc pas répondre à cette question.",
+      "contexts_count": 5,
+      "ground_truth": "OKC Thunder est l'une des meilleures équipes de la saison régulière 2024-2025.",
+      "category": "noisy"
+    }
+  ],
+  "ragas_scores": {
+    "faithfulness": {
+      "mean": 0.5689571150097466,
+      "min": 0.0,
+      "max": 1.0
+    },
+    "answer_relevancy": {
+      "mean": NaN,
+      "min": NaN,
+      "max": NaN
+    },
+    "context_precision": {
+      "mean": 0.25925925923888893,
+      "min": 0.0,
+      "max": 0.99999999995
+    }
+  }
+}
