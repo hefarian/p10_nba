@@ -16,9 +16,13 @@ python load_excel_to_db.py \
 
 # ── Étape 2 : Indexation FAISS ────────────────────────────────────────────────
 echo ""
-echo "[2/3] Indexation des documents dans FAISS..."
 cd /app/P10_DSML
-python indexer.py
+if [ -f "vector_db/faiss_index.idx" ] && [ -f "vector_db/document_chunks.pkl" ]; then
+    echo "[2/3] Index FAISS déjà présent — indexation ignorée."
+else
+    echo "[2/3] Indexation des documents dans FAISS..."
+    python indexer.py
+fi
 
 # ── Étape 3 : Lancement Streamlit ─────────────────────────────────────────────
 echo ""

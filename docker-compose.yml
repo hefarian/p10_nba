@@ -36,6 +36,12 @@ services:
       - easyocr_models:/root/.EasyOCR
       # Persistance des résultats OCR (ocr_comparison.json/csv) sur l'hôte
       - ./P10_DSML/results:/app/P10_DSML/results
+      # Persistance des conversations sur l'hôte
+      - ./P10_DSML/conversations:/app/P10_DSML/conversations
+      # Credentials Logfire locaux (logfire auth) → envoi cloud sans LOGFIRE_TOKEN
+      - ./.logfire:/app/.logfire:ro
+      # Credentials utilisateur Logfire (~/.logfire/default.toml)
+      - ${USERPROFILE}/.logfire:/root/.logfire:ro
     restart: unless-stopped
     healthcheck:
       test: ["CMD", "curl", "-f", "http://localhost:8508/_stcore/health"]

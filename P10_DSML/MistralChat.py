@@ -1,7 +1,10 @@
 # MistralChat.py (version RAG + SQL Tool + Logfire)
 import streamlit as st
 import os
+import json
+import uuid
 import logging
+from datetime import datetime
 from mistralai import Mistral
 from dotenv import load_dotenv
 
@@ -20,11 +23,17 @@ except ImportError as e:
 # --- Logfire (observabilité) ---
 try:
     import logfire
+    # Priorité : token env var, sinon config locale (.logfire/), sinon mode console
     _LOGFIRE_TOKEN = os.getenv("LOGFIRE_TOKEN")
     if _LOGFIRE_TOKEN:
         logfire.configure(token=_LOGFIRE_TOKEN, service_name="sportsee-rag")
     else:
-        logfire.configure(send_to_logfire=False, service_name="sportsee-rag")
+        try:
+            # Tente la config locale (logfire auth + logfire projects use)
+            logfire.configure(service_name="sportsee-rag")
+        except Exception:
+            # Pas de credentials locaux (ex: Docker) → mode console uniquement
+            logfire.configure(send_to_logfire=False, service_name="sportsee-rag")
     logfire.instrument_pydantic()   # trace les validations Pydantic
     LOGFIRE_ENABLED = True
 except ImportError:
@@ -112,7 +121,63 @@ def get_plot_tool():
 
 plot_tool = get_plot_tool()
 
-# --- Prompt Système pour RAG ---
+# --- Gestion des conversations persistantes ---
+CONVERSATIONS_DIR = os.path.join(os.path.dirname(__file__), "conversations")
+os.makedirs(CONVERSATIONS_DIR, exist_ok=True)
+
+
+def _list_conversations() -> list[dict]:
+    """Retourne la liste des conversations sauvegardées, triées par date décroissante."""
+    convs = []
+    for fname in os.listdir(CONVERSATIONS_DIR):
+        if fname.endswith(".json"):
+            path = os.path.join(CONVERSATIONS_DIR, fname)
+            try:
+                with open(path, "r", encoding="utf-8") as f:
+                    data = json.load(f)
+                convs.append({"id": data["id"], "name": data["name"], "path": path,
+                               "created_at": data.get("created_at", "")})
+            except Exception:
+                pass
+    return sorted(convs, key=lambda x: x["created_at"], reverse=True)
+
+
+def _save_conversation(conv_id: str, name: str, messages: list[dict]):
+    """Sauvegarde la conversation courante dans un fichier JSON."""
+    path = os.path.join(CONVERSATIONS_DIR, f"{conv_id}.json")
+    with open(path, "w", encoding="utf-8") as f:
+        json.dump({
+            "id": conv_id,
+            "name": name,
+            "created_at": datetime.now().isoformat(),
+            "messages": messages,
+        }, f, ensure_ascii=False, indent=2)
+
+
+def _load_conversation(path: str) -> dict | None:
+    """Charge une conversation depuis un fichier JSON."""
+    try:
+        with open(path, "r", encoding="utf-8") as f:
+            return json.load(f)
+    except Exception:
+        return None
+
+
+def _delete_conversation(path: str):
+    """Supprime un fichier de conversation."""
+    try:
+        os.remove(path)
+    except Exception:
+        pass
+
+
+# Initialisation de l'état de conversation
+if "conv_id" not in st.session_state:
+    st.session_state.conv_id = str(uuid.uuid4())
+if "conv_name" not in st.session_state:
+    st.session_state.conv_name = datetime.now().strftime("%d/%m/%Y %H:%M")
+
+
 SYSTEM_PROMPT = f"""Tu es 'NBA Analyst AI', un assistant expert sur la ligue de basketball NBA.
 Ta mission est de répondre aux questions des fans en animant le débat.
 
@@ -255,6 +320,54 @@ JSON :"""
 
 
 # --- Interface Utilisateur Streamlit ---
+
+# ── Sidebar : gestion des conversations ───────────────────────────────────────
+with st.sidebar:
+    st.header("💬 Conversations")
+
+    # Nouvelle conversation
+    if st.button("➕ Nouvelle conversation", use_container_width=True):
+        st.session_state.conv_id = str(uuid.uuid4())
+        st.session_state.conv_name = datetime.now().strftime("%d/%m/%Y %H:%M")
+        st.session_state.messages = [{"role": "assistant", "content": f"Bonjour ! Je suis votre analyste IA pour la {NAME}. Posez-moi vos questions sur les équipes, les joueurs ou les statistiques, et je vous répondrai en me basant sur les données les plus récentes."}]
+        st.rerun()
+
+    st.divider()
+
+    # Renommer la conversation courante
+    new_name = st.text_input("Nom de la conversation", value=st.session_state.conv_name, key="conv_name_input")
+    if new_name != st.session_state.conv_name:
+        st.session_state.conv_name = new_name
+
+    st.divider()
+
+    # Liste des conversations sauvegardées
+    saved = _list_conversations()
+    if saved:
+        st.subheader("📂 Historique")
+        for conv in saved:
+            col1, col2 = st.columns([4, 1])
+            with col1:
+                if st.button(conv["name"], key=f"load_{conv['id']}", use_container_width=True,
+                             type="primary" if conv["id"] == st.session_state.conv_id else "secondary"):
+                    data = _load_conversation(conv["path"])
+                    if data:
+                        st.session_state.conv_id = data["id"]
+                        st.session_state.conv_name = data["name"]
+                        st.session_state.messages = data["messages"]
+                        st.rerun()
+            with col2:
+                if st.button("🗑", key=f"del_{conv['id']}", help="Supprimer"):
+                    _delete_conversation(conv["path"])
+                    if conv["id"] == st.session_state.conv_id:
+                        st.session_state.conv_id = str(uuid.uuid4())
+                        st.session_state.conv_name = datetime.now().strftime("%d/%m/%Y %H:%M")
+                        st.session_state.messages = [{"role": "assistant", "content": f"Bonjour ! Je suis votre analyste IA pour la {NAME}. Posez-moi vos questions."}]
+                    st.rerun()
+    else:
+        st.caption("Aucune conversation sauvegardée.")
+
+# ─────────────────────────────────────────────────────────────────────────────
 st.title(APP_TITLE)
 st.caption(f"Assistant virtuel pour {NAME} | Modèle: {model}")
 
@@ -370,6 +483,9 @@ if prompt := st.chat_input(f"Posez votre question sur la {NAME}..."):
 
     # 6. Ajouter la réponse à l'historique
     st.session_state.messages.append({"role": "assistant", "content": response_content})
+
+    # 7. Sauvegarder automatiquement la conversation
+    _save_conversation(st.session_state.conv_id, st.session_state.conv_name, st.session_state.messages)
 
     # Fermer le span Logfire
     if _logfire_span_ctx:
